@@ -20,18 +20,18 @@
 	<div class="container box-sm">
 		<div class="row">
 <!--			<div class="col-sm-5 col-sm-4 col-sm-53 col-sm-5452 col-sm-54535451 col-sm-5453545254535450"> -->
-			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-5 ">
-				<img src="img/kym_iphone_contacts-3-blue.jpg" height="600" class="floating-top-down pull-right">
+			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-8 ">
+				<img src="img/kym_iphone_contacts-3-blue.jpg"   class="floating-top-down balloon-action pull-right iphone-kymsurgery" style="z-index: 99999999!important; position:absolute;">
 <!--				class="pull-right fadeInLeft animDelay04 animated" />-->
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6 push-bottom-percents-3 push-top-percents-3">
 				<h1 class="text-center  mg-lg sm-shadow">
 					Chirurgijos Klinika
 				</h1>
-				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" />
+				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" style="z-index: 1;" />
 			</div>
-			<div class="col-sm-3 push-top-percents-5  hidden-md hidden-sm hidden-xs">
-				<img src="img/kym_iphone_home-1-blue.jpg" height="600" class="floating-top-down">
+			<div class="col-sm-3 push-top-percents-8  hidden-md hidden-sm hidden-xs">
+				<img src="img/kym_iphone_home-1-blue.jpg"  class="floating-top-down balloon-action iphone-kymsurgery">
 <!--					 class="fadeInRight animDelay1 animated" />-->
 			</div>
 		</div>
@@ -76,7 +76,7 @@
 
 <!-- box-12 -->
 <div class="box bgc-anti-flash-white l-box  " id="box-12">
-	<div class="container box-xxl">
+	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center sm-shadow mg-lg">
@@ -139,7 +139,7 @@
 
 <!-- box-14 -->
 <div class="box bgc-white bg--eff-macbook-home-flat d-box b-parallax hidden-sm hidden-xs" id="box-14">
-	<div class="container box-xxl400">
+	<div class="container box-xxl300">
 		<div class="row">
 			<div class="col-sm-12">
 				<span class="empty-column"></span>

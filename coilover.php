@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="col-sm-7">
-				<img src="img/coilover_macbook_desktop1_grey.jpg" class="img-responsive  floating-top-down" />
+				<img src="img/coilover_macbook_desktop3_grey.jpg" class="img-responsive  floating-top-down" />
 			</div>
 		</div>
 	</div>

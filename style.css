@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
-        portfolio-10
-        Built with Blocs
+          Copyright by Tautvydas Lokys
+          Tautvydas.Lokys@gmail.com
 -----------------------------------------------------------------------------------*/
 
 body{
@@ -25,7 +25,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 		font-weight: 300;
 }
 h1 {
-	font-size: 88px;
+	font-size: 75px;
 	line-height: 1.0625;
 	font-weight: 300;
 }
@@ -43,9 +43,7 @@ h4 {
 	 font-size: 28px;
 	 line-height: 44px;
  }
-p {
-	font-size: 22px;
-}
+p {  font-size: 22px;  }
 
 .btn-rd {
 	border-radius: 40px;
@@ -77,21 +75,22 @@ p {
 .sm-pull-none {
 	float: none !important;
 }
+.iphone-kymsurgery {  height: 600px;  }
 
 #services .text-black {	color: #333; }
-
-
 #services.bg-DWLWL9USBG {		background-image: none;	background-color: #fff; }
 #services  .box-xxl200 { padding: 50px 10px; }
 #services p {		font-size: 18px; color: #666; }
 #services h3, #services h2 { color: #333; }
 #services.d-box .icon-round { color: #333; border-color: #333!important; }
-
 #services ul li {
 	color: #666;
 	font-size: 18px;
 	text-align: right;
 }
+
+#footer .site-navigation {  left: 20px;  }
+#footer .contacts { padding-left: 35px;}
 
 
 /* Tv effects */
@@ -144,7 +143,7 @@ p {
 
 
 
-/* = Blocs
+/* = Box
 -------------------------------------------------------------- */
 
 .box{
@@ -635,7 +634,7 @@ button{
 
 
 
-/* Empty space fillers - Used on empty blocs to fill them out */
+/* Empty space fillers - Used on empty box to fill them out */
 
 .empty-column,.empty-column.thin{
 	width:100%;
@@ -972,10 +971,13 @@ iframe{
 /* ------------------------------------------------------------ */
 
 
-
 /* = Mobile adjustments 
 -------------------------------------------------------------- */
+@media (max-width: 1700px) {
+	.iphone-kymsurgery { height: 400px; }
+}
 @media (min-width: 1441px) {
+	/*h1 { font-size: 88px; }*/
 	/* izraelliokosmetika */
 		.iphone { width: 90%; }
 		.space-for-moving-iphone { 	padding-bottom: 15%; }
@@ -1014,6 +1016,13 @@ iframe{
 		}
 		.space-for-moving-iphone { 	padding-bottom: 25%; }
 	/* end izraeliokosmetika */
+
+	.iphone-kymsurgery { height: 350px; }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.push-top-0-md {
+		padding-top: 0px!important;
+	}
 }
 @media (max-width: 1024px)
 {
@@ -1062,6 +1071,9 @@ iframe{
 		#services .col-sm-6 { width: 100%; padding: 30px 30px; }
 	/* end Paslaugos */
 
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.push-top-0-sm { padding-top: 0px!important; }
 }
 @media (max-width: 768px)
 {
@@ -1267,6 +1279,7 @@ iframe{
 	#footer .col-sm-3.push-0 {
 		margin: 0;
 	}
+	#footer .push-top-percents-5 { height: 0px; }
 
 	h1 {
 		font-size: 64px;
@@ -1278,6 +1291,9 @@ iframe{
 	h3 {
 		font-size: 24px;
 		line-height: 1.3;
+	}
+	.push-top-0-xs {
+		padding-top: 0px!important;
 	}
 
 }

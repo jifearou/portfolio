@@ -3,7 +3,7 @@
 ?>
 <!-- box-201-->
 <div class="">
-	<a class="box-button btn-lg btn-d btn-rd  static-top-button-lft   " style="" href="/izraeliokosmetika.php">
+	<a class="box-button btn-lg btn-d btn-rd  static-top-button-lft   " style="" href="/fotostudija.php">
 		<span class="fa fa-long-arrow-left "> </span>
 	</a>
 </div>
@@ -19,16 +19,16 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-md-12 col-lg-7">
-				<h1 class=" mg-lg sm-shadow text-center  ">
+				<h1 class=" mg-md sm-shadow text-center  ">
 					Dizainas
 				</h1>
-				<h3 class="mg-md  text-center sm-shadow   push-bottom-percents-5">
+				<h3 class="mg-md  text-center sm-shadow   push-bottom-percents-3">
 					Kvietimas į Vestuves
 				</h3>
-				<img src="img/vestuves_macbook_home_flat.jpg" class="img-responsive fadeInLeft animDelay02 animated" />
+				<img src="img/vestuves_macbook_home_flat.jpg" class="img-responsive center-block fadeInLeft animDelay02 animated" />
 			</div>
-			<div class="col-md-12 col-lg-2">
-				<img src="img/vestuves_iphone_home_.jpg"  class="floating-top-down iphone hidden-xs hidden-sm hidden-md   push-top-percents-50  " />
+			<div class="col-md-12 col-lg-5 hidden-xs hidden-sm hidden-md   push-top-percents-10  ">
+				<img src="img/vestuves_iphone_home_.jpg"  class="floating-top-down iphone-kymsurgery  " />
 			</div>
 		</div>
 	</div>

@@ -20,7 +20,7 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-md-12 col-lg-5">
-				<h1 class="mg-md  text-center tc-white sm-shadow push-bottom-percents-5 push-top-percents-15">
+				<h1 class="mg-md  text-center  tc-white sm-shadow push-bottom-percents-5 push-top-percents-15 push-top-0-md push-top-0-sm push-top-0-xs  ">
 					Fotostudijos Dizainas
 				</h1>
 				<div class="hidden-xs hidden-sm hidden-md">
@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/fotostudija_macbook_home_pink2.jpg" class="img-responsive fadeInRight animDelay02 animated" />
+				<img src="img/fotostudija_macbook_home_pink2.jpg" class="img-responsive center-block fadeInRight animDelay02 animated" />
 			</div>
 		</div>
 	</div>

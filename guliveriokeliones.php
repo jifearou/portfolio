@@ -68,7 +68,7 @@
 					Prisitaikantis Dizainas
 				</h2>
 				<h3 class="text-center  mg-lg">
-					Tapkite pasiekiami visur!<br />Prisitaikantis prie įvairių įrenginių dizainas<br />- leis tapti pasiekiamiems visiems ir visur.
+					Tapkite pasiekiami visiems!<br />Prisitaikantis prie įvairių įrenginių dizainas.
 				</h3>
 			</div>
 			<div class="col-lg-7 col-md-12 push-percents-rgt-10">
@@ -153,7 +153,8 @@
 						Kelionės Informacija
 					</h2>
 					<h3 class="mg-md text-center ">
-						Susideda iš: galerijos, žemėlapio, kelionės programos,<br />galimų kelionės datų, keliautojo atmintinės, DUK, panašių kelionių<br />
+						Susideda iš: galerijos, žemėlapio, kelionės programos,
+						 galimų kelionės datų, keliautojo atmintinės, DUK, panašių kelionių<br />
 					</h3>
 				</div>
 			</div>
@@ -176,7 +177,7 @@
 
 
 <!-- box-43 -->
-<div class="box bgc-white b-parallax bg-eff-macbook-table-2 d-box push-percents-15 hidden-xs" id="box-43">
+<div class="box bgc-white b-parallax bg-eff-macbook-table-2 d-box push-percents-10 hidden-xs" id="box-43">
 	<div class="container box-xxl">
 		<div class="row">
 			<div class="col-sm-12">
@@ -191,7 +192,7 @@
 
 <!-- box-46 -->
 <div class="box l-box bgc-white" id="box-46">
-	<div class="container box-xxl">
+	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="mg-md text-center ">
@@ -218,7 +219,7 @@
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg push-bottom-percents-5">
 					Panaudotos Ikonėlės
-				</h2><img src="img/guliver_icons_blue.png" class="img-responsive center-block img-frame-lg fadeInUp animDelay02 animated" />
+				</h2><img src="img/guliver_icons_blue.png" class="floating-top-down img-responsive center-block img-frame-lg  " />
 			</div>
 		</div>
 	</div>

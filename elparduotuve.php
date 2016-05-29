@@ -16,16 +16,16 @@
 
 <!-- box-66 -->
 <div class="box bgc-meat-brown l-box" id="box-66">
-	<div class="container box-lg">
+	<div class="container box-md">
 		<div class="row">
 			<div class="col-md-12 col-lg-7">
 				<h1 class=" mg-lg sm-shadow text-center text-white">
 					El. Parduotuvė
 				</h1>
-				<img src="img/kaledos_macbook_home_yallow2.jpg" class="    img-responsive fadeInLeft   animated" />
+				<img src="img/kaledos_macbook_home_yallow2.jpg" class=" center-block  width-percents-82 img-responsive fadeInLeft   animated" />
 			</div>
-			<div class="col-md-12 col-lg-2">
-				<img   src="img/kaledos_iphone_yallow2.jpg"   class="floating-top-down float-top-down iphone hidden-xs hidden-sm hidden-md  " />
+			<div class="col-md-12 col-lg-5 push-top-percents-10  hidden-xs hidden-sm hidden-md  ">
+				<img   src="img/kaledos_iphone_yallow2.jpg"   class="floating-top-down   balloon-action iphone-kymsurgery  " />
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 					</h3>
 
 					<?php
-						include 'button-contact-gold.html';
+						include 'button-contact-black-frame.html';
 					?>
 					<img src="img/kaledos_responsive_3.jpg" class="center-block img-responsive push-top-percents-10 width-percents-82" />
 
@@ -134,7 +134,7 @@
 				<h3 class=" text-center mg-lg">
 					Iliustruotas pirkimo procesas<br />
 				</h3>
-				<img src="img/kaledos_macbook__.jpg" class="floating-top-down img-responsive center-block push-top-percents-5" />
+				<img src="img/kaledos_macbook__.jpg" class="floating-top-down img-responsive center-block push-top-percents-8" />
 			</div>
 		</div>
 	</div>

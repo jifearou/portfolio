@@ -56,7 +56,7 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-sm-6">
-				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down img-responsive  " />
+				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down center-block img-responsive  " />
 			</div>
 			<div class="col-sm-6">
                 <h2 class="mg-md  text-center push-top-percents-15">
