@@ -21,7 +21,7 @@
 		<div class="row">
 <!--			<div class="col-sm-5 col-sm-4 col-sm-53 col-sm-5452 col-sm-54535451 col-sm-5453545254535450"> -->
 			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-8 ">
-				<img src="img/kym_iphone_contacts-3-blue.jpg"   class="floating-top-down balloon-action pull-right iphone-kymsurgery" style="z-index: 99999999!important; position:absolute;">
+				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery" style="z-index: 99999999!important; position:absolute;">
 <!--				class="pull-right fadeInLeft animDelay04 animated" />-->
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6 push-bottom-percents-3 push-top-percents-3">
@@ -31,7 +31,7 @@
 				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" style="z-index: 1;" />
 			</div>
 			<div class="col-sm-3 push-top-percents-8  hidden-md hidden-sm hidden-xs">
-				<img src="img/kym_iphone_home-1-blue.jpg"  class="floating-top-down balloon-action iphone-kymsurgery">
+				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery">
 <!--					 class="fadeInRight animDelay1 animated" />-->
 			</div>
 		</div>
@@ -63,11 +63,40 @@
 </div>
 
 <!-- box-11 -->
-<div class="box l-box bgc-white push-bottom-percents-10 push-top-percents-5" id="box-11">
-	<div class="container box-lg">
+<div class="box l-box bgc-white push-bottom-percents-10  hidden-xs hidden-sm " id="box-11">
+<!--	<div class="container box-lg">-->
+<!--		<div class="row">-->
+<!--			<div class="col-sm-12">-->
+<!--				<img src="img/kymsurgery_all_body.jpg" class="img-responsive center-block" />-->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
+
+	<div class="container-kym box-lg">
+
 		<div class="row">
 			<div class="col-sm-12">
-				<img src="img/kymsurgery_all_body.jpg" class="img-responsive center-block" />
+
+				<span id="header_shadow"></span>
+				<span id="header_shadow"></span>
+				<span id="header_shadow"></span>
+
+				<div class="home-body-image container  test10home">
+				</div>
+
+				<div class="interactive-content">
+					<div class="header-canvas">
+						<div id="header-svg-canvas">
+							<object type="image/svg+xml"  data="/active-icons/home-organs-animations.svg">Your browser does not support SVG</object>
+							<!--				<img src="/wp-content/themes/enigma-premium/images/slide/home-organs-animations.svg">-->
+						</div>
+					</div>
+				</div>
+
+				<span id="header_shadow_top" class=" rotate-180"></span>
+				<span id="header_shadow_top" class=" rotate-180"></span>
+				<span id="header_shadow_top" class=" rotate-180"></span>
+
 			</div>
 		</div>
 	</div>

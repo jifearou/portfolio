@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" id="aaa" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="1000px" style="margin: 0 auto;" viewBox="0 0 800 1000" enable-background="new 0 0 800 1000" xml:space="preserve">
+
+
+
+				<defs>
+					<filter id="shadow" x="0" y="0" width="140%" height="140%">
+						<feOffset result="offOut" in="SourceAlpha" dx="2" dy="2"></feOffset>
+						<feGaussianBlur result="blurOut" in="offOut" stdDeviation="1"></feGaussianBlur>
+						<feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+					</filter>
+				</defs>
+
+				 <!--hide & show red organs images-->
+				 <!--onmouseover="show(evt, 'liver_image', 381, 262)" onmouseout="hide(evt, 'liver_image')" -->
+				 <script type="text/ecmascript"><![CDATA[
+//									function show(evt, node, width, height) {
+//										var svgdoc = evt.target.ownerDocument;
+//										var obj = svgdoc.getElementById(node);
+//										obj.setAttribute("position", "relative");
+//										obj.setAttribute("width", width);
+//										obj.setAttribute("height", height);
+//									}
+//									function hide(evt, node) {
+//										var svgdoc = evt.target.ownerDocument;
+//										var obj = svgdoc.getElementById(node);
+//										obj.setAttribute("width", "0");
+//										obj.setAttribute("height", "0");
+//										obj.setAttribute("position", "absolute");
+//									}
+//									]]>
+				</script>
+
+	<!--Stomatch-->
+				<image id="stomatch_image" style="opacity: 0; position: absolute;" overflow="visible" width="0" height="0"  xlink:href="stomatch-shorter.png"  transform="matrix(1 0 0 1 296 156)"></image>
+				<a id="stomatch_image_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<path id="stomatch_path" style="opacity: 0;" fill-rule="evenodd" clip-rule="evenodd"   d="M425.7,431.9c-11.6,1.1-23.4-2.1-35.1-5.3c-5.9-1.6-10.1-5.9-14.5-9.5
+						c-10-8.2-18.5-17.7-23-30.3c-0.7-1.9-1.1-4.7-3.7-4.7c-2.2,0-2.8,2.5-3.8,4.2c-3.2,5.9-7.6,11.1-12.8,15.2
+						c-7.1,5.6-9.9,12.7-9.7,21.3c0.1,4.9-2.2,6.4-6.7,6.2c-8.8-0.3-15.7-8.2-14.7-17.1c0.4-3.2,0.5-6.3-0.1-9.5
+						c-2-10.5,0.3-20.5,6.1-29.1c6.5-9.8,14.3-18.4,27-20.7c4.5-0.8,8.6,0.2,12.9,0.7c2.3,0.3,4.2,0.2,6-1.4
+						c11.6-9.3,24.2-8.7,37.2-3.7c3.4,1.3,6.6,3.3,10,4.6c4.9,1.9,9.6,1.4,13.6-2.1c8-6.9,14.9-14.7,18-25.2
+						c3.1-10.3,5.8-20.6,6.2-31.3c0.4-9.7-1-18.9-8.7-26.4c-6.2-6.2-11-13.9-14.7-21.9c-8.7-18.5-16.2-37.4-14.2-58.5
+						c0.5-5-2.1-9-4.1-13.2c-4.9-10.5-8-21.4-10.2-32.8c-2.7-13.7-5.5-27.4-8.4-41.1c-3.5-16.5-3.9-33.4-3-50.2
+						c0.2-3.9,1.7-7.9,6.1-9.6c0.3-0.1,0.6-0.3,0.9-0.5c2.1-1.9,3-5.8,6.6-5.5c3.2,0.3,3.1,4.5,5.5,6c7.7,5.2,7.9,13.4,8.5,21.4
+						c1.6,20.6,4.7,40.9,7.6,61.3c2.1,15.1,5.3,29.8,11.7,43.7c1.7,3.7,1.4,7.8-0.2,11.2c-4.4,9.2-1.5,18.2,0.9,26.7
+						c3.4,11.9,9.8,22.6,16.9,32.7c4.4,6.3,5.8,6.4,10.3,0.7c11.7-14.6,28.5-19.4,45.4-21.6c23.2-3,43.2,5.5,57.9,24.2
+						c6.9,8.7,8.8,19.6,10.8,30.3c4,22.2-3.1,42.5-10.3,62.8c-7.5,21.2-17.5,41-32.3,58.2c-15.7,18.1-34,32.4-58.3,35.6
+						C450.9,429.6,438.9,433.3,425.7,431.9z"/>
+				</a>
+				<animate xlink:href="#stomatch_image"
+						  attributeName="opacity"
+					 	  values="0;1 " dur="0.5s"	  repeatCount="1" fill="freeze"
+						  begin="stomatch_path.mouseover"  end="stomatch_path.mouseout"
+						/>
+
+				<!--hack to show hidden image -->
+				<animate xlink:href="#stomatch_image" attributeName="width"   dur="0" from="269" to="269" begin="stomatch_path.mouseover"	  end="stomatch_path.mouseout"></animate>
+				<animate xlink:href="#stomatch_image" attributeName="height"  dur="0" from="311" to="311" begin="stomatch_path.mouseover"	  end="stomatch_path.mouseout"></animate>
+
+	<!--Gall Blandder-->
+				<image  id="gallblander_img"   style="opacity: 0; position: absolute;" overflow="visible" width="0" height="0" xlink:href="gallblander.png"  transform="matrix(1 0 0 1 237 344)"></image>
+				<a id="gallblander_link" xmlns:xlink="http://www.w3.org/1999/xlink"  target="_parent">
+					<circle id="ef_bilreklame_circle" cx="112" cy="180" r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="2,4" fill="#083D5E" fill-opacity="0.3"   ></circle>
+					<image overflow="visible" width="55" height="47" id="gall_bladder_image" xlink:href="/active-icons/gall_blander.png"  transform="matrix(1 0 0 1 86 176)"></image>
+					<text id="ef_bilreklame_text" x="110" y="160" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Gall Blandder</text>
+					<polygon id="ef_bilreklame_polygon" points="240,350 300,350 300,400 240,400" fill="transparent"></polygon>
+				</a>
+				<line id="ef_bilreklame_line"  x1="150" y1="222" x2="272" y2="376" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="1,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_bilreklame_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 112 180"
+								  to="360 112 180"
+								  dur="6s"
+								  begin="gallblander_link.mouseover"
+								  end="gallblander_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_bilreklame_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="gallblander_link.mouseover" end="gallblander_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#gallblander_img"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="gallblander_link.mouseover" end="gallblander_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#gallblander_img" attributeName="width"   dur="0" from="79" to="79" begin="gallblander_link.mouseover"	  end="gallblander_link.mouseout"></animate>
+				<animate xlink:href="#gallblander_img" attributeName="height"  dur="0" from="91" to="91" begin="gallblander_link.mouseover"	  end="gallblander_link.mouseout"></animate>
+
+	<!--Liver-->
+				<image id="liver_image" style=" opacity: 0; position: absolute "  overflow="visible" width="0" height="0" xlink:href="liver.png"  transform="matrix(1 0 0 1 168 160)"></image>
+				<a id="liver_image_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<path fill-rule="evenodd"  id="liver_path" style="opacity: 0;"   clip-rule="evenodd" transform="matrix(1 0 0 1 -5  0)" d="M347.148,333.999c-3.912,0.371-7.656-0.595-11.388-1.404
+						c-2.605-0.565-4.518-0.086-5.977,2.254c-7.15,11.465-18.036,18.331-29.744,24.257c-12.795,6.476-24.68,14.516-36.978,21.848
+						c-5.717,3.407-11.743,6.367-17.157,10.197c-8.093,5.727-17.394,9.57-24.86,16.232c-3.917,3.494-5.516,3.491-8.635-1.411
+						c-4.194-6.592-8.167-13.188-11.164-20.372c-2.575-6.171-3.35-12.776-4.177-19.332c-1.182-9.379-2.972-18.597-5.267-27.788
+						c-1.415-5.664-3.513-12.362-0.796-17.53c2.15-4.092,4.234-8.147,5.571-12.505c2.632-8.581,5.047-17.248,1.503-26.249
+						c-0.703-1.784-1.452-3.921-3.285-4.07c-5.129-0.416-4.047-3.851-3.497-6.745c4.942-25.992,14.944-48.442,38.631-63.611
+						c25.308-16.207,52.233-27.838,81.351-34.663c10.044-2.355,20.17-4.366,30.286-6.401c2.423-0.487,4.95-0.562,7.434-0.62
+						c5.278-0.123,10.249-0.538,15.482-2.477c5.202-1.926,11.596-1.928,17.228-1.115c10.244,1.478,20.603,1.24,30.771,2.67
+						c11.828,1.663,23.486,4.529,35.221,6.861c21.905,4.353,43.661,9.23,64.27,18.168c11.182,4.849,20.894,11.522,27.502,22.074
+						c5.337,8.521,5.58,17.014,0.734,25.975c-4.322,7.996-9.848,14.853-16.119,21.406c-7.455,7.79-16.795,9.275-26.48,9.128
+						c-11.65-0.177-22.373,3.695-33.052,7.024c-6.72,2.095-13.082,6.516-18.419,11.628c-20.379,19.521-44.918,31.984-71.169,41.185
+						C366.117,331.714,356.679,333.584,347.148,333.999z"/>
+				</a>
+				<!--show red organ img-->
+	 			<animate xlink:href="#liver_image"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s"	  repeatCount="1" fill="freeze"
+					  begin="liver_path.mouseover"	  end="liver_path.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#liver_image" attributeName="width"   dur="0" from="381" to="381" begin="liver_path.mouseover"	  end="liver_path.mouseout"></animate>
+				<animate xlink:href="#liver_image" attributeName="height"  dur="0" from="262" to="262" begin="liver_path.mouseover"	  end="liver_path.mouseout"></animate>
+
+	<!--Pancreas-->
+				<image  id="pancreas-color-img"  style="opacity: 0; position: absolute;"  overflow="visible" width="0" height="0" xlink:href="peanacles-color-dark.png"  transform="matrix(1 0 0 1 295 335)"></image>
+				<a id="pancreas_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="ef_bildeler_circle" cx="92" cy="530" r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="2,4" fill="#083D5E" fill-opacity="0.3"   ></circle>
+					<image overflow="visible" width="89" height="34" id="small_image" xlink:href="/active-icons/pancreas.png"  transform="matrix(1 0 0 1 50 528)"></image>
+					<text id="ef_bildeler_text" x="90" y="500" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)" font-size="16"  font-weight="Normal" >Pancreas</text>
+					<!--<polygon id="ef_bildeler_polygon" points="330,390 530,390 530,420 330,420" fill="transparent"></polygon>-->
+				</a>
+				<line id="ef_bildeler_line"  x1="154.006" y1="520" x2="355" y2="421" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="2,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_bildeler_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 90 530"
+								  to="360 90 530"
+								  dur="6s"
+								  begin="pancreas_link.mouseover"
+								  end="pancreas_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze">
+				</animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_bildeler_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="pancreas_link.mouseover" end="pancreas_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#pancreas-color-img"
+					  attributeName="opacity"
+					  values="0;0.9 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="pancreas_link.mouseover" end="pancreas_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#pancreas-color-img" attributeName="width"   dur="0" from="243" to="243" begin="pancreas_link.mouseover"	  end="pancreas_link.mouseout"></animate>
+				<animate xlink:href="#pancreas-color-img" attributeName="height"  dur="0" from="129" to="129" begin="pancreas_link.mouseover"	  end="pancreas_link.mouseout"></animate>
+
+
+	 <!--Appendix-->
+				<image  id="appendix-color-img"  style="opacity: 0; position: absolute;"  overflow="visible" width="0" height="0" xlink:href="appendix-color.png"  transform="matrix(1 0 0 1 176 645)"></image>
+				<a id="appendix_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="appendix_circle" cx="134" cy="892"  r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="1,4" fill="#083D5E" fill-opacity="0.3"    ></circle>
+					<image overflow="visible" width="75" height="52" id="appendix_image" xlink:href="/active-icons/appendix.png"  transform="matrix(1 0 0 1 96 882)"></image>
+					<text id="appendix_text" x="130" y="860" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Appendix</text>
+					<polygon id="appendix_polygon" points="280,770 340,770 340,820 280,820" fill="transparent"></polygon>
+				</a>
+				<line id="ef_bilvask_line" x1="192" y1="874" x2="322" y2="799" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="1,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink"
+								  xlink:href="#appendix_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 134 892"
+								  to="360 134 892"
+								  dur="6s"
+								  begin="appendix_link.mouseover"
+								  end="appendix_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_bilvask_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="appendix_link.mouseover" end="appendix_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#appendix-color-img"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="appendix_link.mouseover" end="appendix_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#appendix-color-img" attributeName="width"   dur="0" from="182" to="182" begin="appendix_link.mouseover"	  end="appendix_link.mouseout"></animate>
+				<animate xlink:href="#appendix-color-img" attributeName="height"  dur="0" from="173" to="173" begin="appendix_link.mouseover"	  end="appendix_link.mouseout"></animate>
+
+	<!--Oesophadus-->
+				<image id="oesophadus-color-img"  style="opacity: 0; position: absolute;"  overflow="visible" width="0" height="0"  xlink:href="oesophadus-color.png"  transform="matrix(1 0 0 1 362 2)"></image>
+				<a id="ef_oesophadus_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="ef_oesophadus_circle" cx="650" cy="136"  r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="1,4" fill="#083D5E" fill-opacity="0.3"    ></circle>
+					<image overflow="visible" width="44" height="77" id="oesophadus_img" xlink:href="/active-icons/oesophadus.png"  transform="matrix(1 0 0 1 644 118)"></image>
+					<text id="ef_oesophadus_text" x="648" y="110" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Oesophadus</text>
+					<polygon id="ef_oesophadus_polygon" points="370,0 410,0 410,160 370,160" fill="transparent"></polygon>
+				</a>
+				<line id="ef_oesophadus_line"  x1="587" y1="134" x2="400" y2="101" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="1,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink"
+								  xlink:href="#ef_oesophadus_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 650 136"
+								  to="360 650 136"
+								  dur="6s"
+								  begin="ef_oesophadus_link.mouseover"
+								  end="ef_oesophadus_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_oesophadus_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="ef_oesophadus_link.mouseover" end="ef_oesophadus_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#oesophadus-color-img"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="ef_oesophadus_link.mouseover" end="ef_oesophadus_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#oesophadus-color-img" attributeName="width"   dur="0" from="202" to="202" begin="ef_oesophadus_link.mouseover"	  end="ef_oesophadus_link.mouseout"></animate>
+				<animate xlink:href="#oesophadus-color-img" attributeName="height"  dur="0" from="325" to="325" begin="ef_oesophadus_link.mouseover"	  end="ef_oesophadus_link.mouseout"></animate>
+
+	<!--Spleon-->
+				<image id="spleon-color-img"  style="opacity: 0; position: absolute;"  overflow="visible" width="0" height="0"  xlink:href="spleon-color.png"  transform="matrix(1 0 0 1 531 271)"></image>
+				<a id="ef_spleon_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="ef_spleon_circle" cx="712" cy="510"  r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="2,4" fill="#083D5E" fill-opacity="0.3"    ></circle>
+					<image overflow="visible" width="41" height="68" id="spleen_img" xlink:href="/active-icons/spleon.png"  transform="matrix(1 0 0 1 690 490)"></image>
+					<text id="ef_spleon_text" x="714" y="476" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Spleon</text>
+					<polygon id="ef_spleon_polygon" points="550,270 600,270 600,370 550,370" fill="transparent"   ></polygon>
+				</a>
+				<line id="ef_spleon_line"  x1="665" y1="465" x2="570" y2="358" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="2,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink"
+								  xlink:href="#ef_spleon_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 712 510"
+								  to="360 712 510"
+								  dur="6s"
+								  begin="ef_spleon_link.mouseover"
+								  end="ef_spleon_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_spleon_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="ef_spleon_link.mouseover" end="ef_spleon_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#spleon-color-img"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="ef_spleon_link.mouseover" end="ef_spleon_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#spleon-color-img" attributeName="width"   dur="0" from="67" to="67" begin="ef_spleon_link.mouseover"	  end="ef_spleon_link.mouseout"></animate>
+				<animate xlink:href="#spleon-color-img" attributeName="height"  dur="0" from="110" to="110" begin="ef_spleon_link.mouseover"	  end="ef_spleon_link.mouseout"></animate>
+
+
+	<!--Hernia-->
+				<image id="hernia-color-img" style="opacity: 0; position: absolute;"  overflow="visible" width="0" height="0"  xlink:href="hernia-color.png"  transform="matrix(1 0 0 1 518 635)"></image>
+				<a id="ef_hernia_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="ef_hernia_circle" cx="704" cy="728"  r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="1,4" fill="#083D5E" fill-opacity="0.3"    ></circle>
+					<image overflow="visible" width="123" height="129" id="hernia_image" xlink:href="hernia.png"  transform="matrix(1 0 0 1 673 662)"></image>
+					<text id="ef_hernia_text" x="705" y="692" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Hernia</text>
+					<polygon id="ef_hernia_polygon" points="550,800 600,800 600,920 550,920" fill="transparent"  transform="rotate(15 575 850)" ></polygon>
+				</a>
+				<line id="ef_hernia_line"   x1="668" y1="779" x2="596" y2="850" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="1,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink"
+								  xlink:href="#ef_hernia_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 704 728"
+								  to="360 704 728"
+								  dur="6s"
+								  begin="ef_hernia_link.mouseover"
+								  end="ef_hernia_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_hernia_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="ef_hernia_link.mouseover" end="ef_hernia_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#hernia-color-img"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="ef_hernia_link.mouseover" end="ef_hernia_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#hernia-color-img" attributeName="width"   dur="0" from="162" to="162" begin="ef_hernia_link.mouseover"	  end="ef_hernia_link.mouseout"></animate>
+				<animate xlink:href="#hernia-color-img" attributeName="height"  dur="0" from="322" to="322" begin="ef_hernia_link.mouseover"	  end="ef_hernia_link.mouseout"></animate>
+
+
+	<!--Anus-->
+				<image id="anus_image" style="opacity: 0; position: absolute;" overflow="visible" width="0" height="0"  xlink:href="anus-color.png"  transform="matrix(1 0 0 1 355 720)"></image>
+				<a id="ef_anus_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+					<circle id="ef_anus_circle" cx="690" cy="920"  r="60" stroke="#0FA4FF" stroke-width="6" stroke-dasharray="1,4" fill="#083D5E" fill-opacity="0.2"    ></circle>
+					<image overflow="visible" width="30" height="79" id="anus-img" xlink:href="/active-icons/anus.png"  transform="matrix(1 0 0 1 676 884)"></image>
+					<text id="ef_anus_text" x="690" y="882" text-anchor="middle" fill="#FFFFFF" filter="url(#shadow)"  font-size="16" font-weight="Normal" >Anus</text>
+					<polygon id="ef_anus_polygon"  points="370,800 418,800 418,940 370,940" fill="transparent"   ></polygon>
+				</a>
+				<line id="ef_anus_line"  x1="632" y1="930" x2="400" y2="930" stroke="#0FA4FF" stroke-width="4" stroke-dasharray="1,5"></line>
+				<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink"
+								  xlink:href="#ef_anus_circle"
+								  attributeName="transform"
+								  attributeType="XML"
+								  type="rotate"
+								  from="0 690 920"
+								  to="360 690 920"
+								  dur="6s"
+								  begin="ef_anus_link.mouseover"
+								  end="ef_anus_link.mouseout"
+								  repeatCount="indefinite"
+								  fill="freeze"></animateTransform>
+				<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ef_anus_line" attributeName="stroke-dashoffset" from="8" to="0" dur="0.33s" begin="ef_anus_link.mouseover" end="ef_anus_link.mouseout" repeatCount="indefinite"></animate>
+				<!--show red organ img-->
+	 			<animate xlink:href="#anus_image"
+					  attributeName="opacity"
+					  values="0;1 " dur="0.5s" repeatCount="1" fill="freeze"
+					  begin="ef_anus_link.mouseover" end="ef_anus_link.mouseout"
+				/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#anus_image" attributeName="width"   dur="0" from="219" to="219" begin="ef_anus_link.mouseover"	  end="ef_anus_link.mouseout"></animate>
+				<animate xlink:href="#anus_image" attributeName="height"  dur="0" from="226" to="226" begin="ef_anus_link.mouseover"	  end="ef_anus_link.mouseout"></animate>
+
+	<!--bowels-->
+				<!--<image id="bowels_image"   style="opacity: 0; position: absolute;" overflow="visible" width="0" height="0"  xlink:href="bowels.png"  transform="matrix(1 0 0 1 205 460)"></image>-->
+				<!--<a id="bowels_image_link" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/?page_id=35" target="_parent">-->
+					   	<!--<path id="bowels_path" style="opacity: 0;" fill-rule="evenodd" clip-rule="evenodd" fill="red"  transform="matrix(1 0 0 1 -5 2)" d="M595,625c0,1,0,2,0,3c-3.4,0.8-1.2,4-2.4,5.9c-3.2,5.2-3.5,11.2-1.9,16.9c1.7,6.3,0.5,12.1-2.8,17.2-->
+						<!--c-5.7,8.8-9.6,17.8-8.3,28.8c0.6,4.6-0.2,9.8-3.7,13.7c-4.8,5.3-9.6,10.6-16.2,13.9c-5.7,2.9-12.6,2.4-17.5-1.9-->
+						<!--c-5.2-4.5-5.2-4.5-8,2c-4.8,11.1-16.6,14.6-26.3,7.8c-2.4-1.7-4.9-3.4-7.3-5.3c-1.6-1.3-3.5-2.1-5-0.6c-6.2,6.3-14.9,9.3-21,15.7-->
+						<!--c-5.2,5.5-9.7,11.6-17,15c-6.6,3.1-13.3,3.9-20.3,3.8c-4.8-0.1-6.8-3.8-9.4-6.7c-1.7-1.8-3.2-1.2-5-0.7-->
+						<!--c-6.6,1.9-12.8,0.5-18.3-3.4c-2.4-1.7-4.1-1.6-5.1,1c-3.5,8.9-10.5,13.7-18.9,17.4c-7.8,3.4-15.5,5.2-23.5,0.8-->
+						<!--c-2-1.1-4.1-1.3-6.2-1.7c-2.8-0.5-5.6-0.6-8.2-1.9c-11.7-5.7-23.9-8.6-37.1-7.5c-8,0.7-19.9-4.3-21.5-14.8-->
+						<!--c-0.5-3.4-2.9-4.6-5.7-4.2c-6,0.7-11.6-0.9-17.2-2.2c-10.9-2.5-16.1-8.8-16.2-20.1c0-3-0.8-5.4-2.8-7.7c-2.6-3-4.8-6.4-7.4-9.4-->
+						<!--c-3-3.7-4.1-7.9-3.8-12.6c0.4-5.5,2.1-10.6,5.6-14.8c9.8-11.9,7.4-13-1.4-23.7c-4.7-5.7-6.4-11.6-3.3-18.5-->
+						<!--c1.3-2.9,0.7-4.9-2.1-6.7c-16.2-10.7-18.4-29.4-4.9-43c3.5-3.5,4.2-6.4,1.4-10.8c-5-7.6-4.4-15.4,0.6-23c1.5-2.2,3.2-4.2,5.4-5.8-->
+						<!--c7.8-5.9,12.4-12.6,7.4-22.9c-2.6-5.4-3.6-11.5-2-17.5c1.1-4.3,2.9-8.6,3.6-13c1.3-8.1,6.8-13.1,12.2-18.2-->
+						<!--c2.5-2.4,5.4-3.7,9.1-2.9c3.4,0.7,6.6,0.2,9.5-1.9c0.9-0.7,2.1-1.2,3.2-1.2c9.1-0.3,18.2-1.4,25.5,6.4c2.5,2.7,6.7,5.4,10.8,4.1-->
+						<!--c5.3-1.7,8.4,0.3,11.9,3.7c7.9,7.7,17.1,12.6,28.6,11.6c1.2-0.1,2.3,0.2,3.3,0.9c10.3,7.6,21.9,8.1,33.9,5.6-->
+						<!--c2.2-0.5,4.2-0.2,6.4,0.2c12.3,2.7,24.4,4.2,35-5.2c2.3-2,5.2-1.9,8.1-1.8c11.5,0.4,22.1-2.5,31.5-9.3c4.1-2.9,8.2-6.2,13.5-2.1-->
+						<!--c0.9,0.7,2.6,0.4,3.9,0.5c6.4,0.3,12.6-0.9,18.6-3c4.6-1.6,8.8-1.8,13.3,1.2c3.4,2.3,7.3,4.3,11.6,4c9.7-0.7,19.4,5,22.8,14-->
+						<!--c7.4,19.8,12.4,40,8.4,61.4c-0.7,4-2.4,7.6-3.3,11.5c-0.8,3.3-1.4,6.7,2.1,9c3.9,2.6,7.8,5,11.8,7.5c7,4.4,12.2,10.2,14.8,18.2-->
+						<!--C590,609.6,592.5,617.3,595,625z"/>-->
+				<!--</a>-->
+				<!--<animate xlink:href="#bowels_image"-->
+						  <!--attributeName="opacity"-->
+					 	  <!--values="0;1 " dur="0.5s"	  repeatCount="1" fill="freeze"-->
+						  <!--begin="bowels_path.mouseover"  end="bowels_path.mouseout"-->
+						<!--/> -->
+				<!--&lt;!&ndash;hack to show hidden image &ndash;&gt;-->
+				<!--<animate xlink:href="#bowels_image" attributeName="width"   dur="0" from="385" to="385" begin="bowels_path.mouseover"	  end="bowels_path.mouseout"></animate>-->
+				<!--<animate xlink:href="#bowels_image" attributeName="height"  dur="0" from="314" to="314" begin="bowels_path.mouseover"	  end="bowels_path.mouseout"></animate>-->
+
+
+	<!--COLON bowels-->
+				<image id="colon_bowels_image"  style="opacity: 0; position: absolute;" overflow="visible" width="0" height="0"  xlink:href="bowel-colon-light.png"  transform="matrix(1 0 0 1 168 401)"></image>
+				<a id="colon_bowels_link" xmlns:xlink="http://www.w3.org/1999/xlink"   target="_parent">
+				<path id="colon_bowels_path" style="opacity: 0;" fill-rule="evenodd" clip-rule="evenodd" fill="red" transform="matrix(1 0 0 1 -5 2)" d="M444.9,497.1c-4.8-0.6-10.2,0.5-15.4,3.9c-3.9,2.6-8.6,3.2-13.4,3.3
+					c-7.4,0.3-14.9,0.6-22.2,0.9c-13.5,0.6-27.9,1.8-39.7-7.7c-2.3-1.9-4.9-2.1-7.9-2c-9.6,0.3-18.7-1.1-25-9.6
+					c-3.2-4.3-7.3-5.9-12.9-6c-7.1,0-13.6-3.6-19.2-7.8c-5.8-4.4-12.2-5.1-18.9-4.9c-3.8,0.1-7.4,1.7-11.3,1.2
+					c-0.6-0.1-1.6,0.1-1.8,0.5c-2.5,4.9-8.8,6.5-9.8,13.1c-0.9,5.6-5.9,9.9-6.1,16.1c-0.1,3.5-0.5,6.9,0.7,10.3
+					c1.4,3.9,2,8.1,1.9,12.3c-0.1,3.2,0.2,6.2,1.5,9.3c1.4,3.3,1.1,5.8-3.3,7.2c-9.6,2.9-14.3,10.8-16.4,19.6
+					c-1.3,5.3,1.4,11,5.6,15.3c4.3,4.3,4.3,5.7-0.5,9.5c-3.7,2.9-6.9,6.1-8.9,10.5c-4.4,9.3-1.7,19.1,5.8,25.5
+					c2.9,2.5,5.1,5.7,7.6,8.6c1.1,1.2,1.5,2.7,0.9,4.2c-3.8,8.5,0.4,14.8,5.9,20.4c10.5,10.6,9,8.9,0.3,19.3c-1.7,2-3.5,4-5.3,6
+					c-7,8-3.5,23,6.3,26.8c4,1.5,5.4,4.4,4.8,8.2c-0.5,3.4,0.2,6.5,0.9,9.8c1.7,7.4,6.6,11.1,13.7,11.8c4.5,0.5,8.8,1.9,13.1,3.1
+					c6.1,1.7,12,2.9,15.7,9.9c2.7,5,7.3,10.5,15,9.8c2.8-0.2,3.5,2.3,3.2,4.6c-0.5,4.3-0.9,8.7-3.8,12.2c-1.6,2-1.9,4-1.2,6.5
+					c1.3,4.4-0.2,6.9-4.7,7.2c-4.9,0.4-8.6,2.5-12.5,5.4c-6.8,5.2-14.7,8.6-23.3,9.4c-1.6,0.2-3.4,0.4-5-0.1
+					c-16.5-4.8-29.1-14.3-35.8-30.6c-0.4-0.9-0.6-1.9-0.6-2.9c0-5.3-1.6-9.5-5.8-13.1c-5.6-4.8-7.4-11.7-8.2-18.8c-0.6-5-2-9.4-6-12.8
+					c-1.7-1.4-3.1-3.2-3.5-5.4c-1.6-9.4-7.1-17.6-9.5-26.6c-3.4-12.9-9.9-25.3-9.1-39.1c0.3-6.1,0.1-11.7-2.6-17.4
+					c-2-4.2-1.8-9.1-1-13.8c1.1-5.7-0.5-11.7,1.6-17.3c0.2-0.5-0.2-1.3-0.4-1.9c-6.5-12.6-6.7-25.5-1.6-38.6c1.9-4.8-0.9-9.2-1.7-13.6
+					c-2.1-10.3-0.6-19.9,4.4-28.9c1.8-3.3,2.2-6.3,1.7-10c-1.4-11.5-1-22.7,7.9-31.8c1.7-1.7,1.7-3.9,1.7-6.1
+					c0.2-9.6,3.5-17.9,10.7-24.4c3-2.7,5-5.9,6.7-9.7c4.1-9,11.5-14.9,20.2-19.3c2.5-1.3,5-2.5,7.1-4.5c6.6-6.1,15.1-7.5,23.4-8.8
+					c6.9-1.1,13.9-1.1,20.7-2.6c9.6-2,18,1.9,26.7,4.7c6,1.9,12.1,2.2,18.2,1.8c3.4-0.2,6.7-0.3,9.7,1.5c5.8,3.5,13.1,3.8,18.5,8.4
+					c1.5,1.3,3.5,0.5,5.3,0.3c12.3-1,24.3-1,35,6.4c1.2,0.8,2.5,1.1,3.7,0.2c4.3-3.2,9.5-4.1,14.6-4.6c7.3-0.7,14.7-2.2,21.8-0.4
+					c7.3,1.7,13.3-1.3,19.8-3c11.4-3,23-6,34.9-5c5.9,0.5,11.5-0.5,17.2-2c12.1-3.1,23.9-4.4,36.4-0.9c6.8,1.9,14.5,0.9,21.3,4.2
+					c4,1.9,7.7,3.9,10.7,7.1c2.3,2.4,4.9,4.6,7.8,6.2c7.2,4.2,10.8,11,13.1,18.7c0.4,1.4,0.4,3,1.5,4.1c7.9,8.4,10.5,19,12.4,29.9
+					c0.7,4.1,0.7,8.3-1.7,12.1c-1.3,2.1-1.2,4.5-1.1,6.8c0.3,5.2,0.3,10.3-2.3,15.1c-1.2,2.1-0.9,4.7,0.1,6.8
+					c3.4,6.9,2.1,13.7-0.2,20.4c-1.7,5-1.1,8.4,2.1,13c6.5,9.2,7.5,20.1,5.3,31.1c-0.6,3-0.4,5.4,1.3,7.9c5.9,8.7,8.8,18.4,10.3,28.7
+					c0.1,0.5,0.3,1.1,0.1,1.5c-3.7,8.9,1.4,16.5,4,24.3c2.2,6.5,2.9,13.2,1.9,19.7c-1.4,8.7,1.3,16.8,1.7,25.2
+					c0.3,5.3-0.2,9.9-2.8,14.3c-1.2,1.9-1.8,3.8-1.5,6.1c1,10.1-3.3,18.1-10.3,24.7c-2,1.9-3.5,3.7-4,6.5c-1.1,5.8-4.5,10.3-9.6,13.4
+					c-4.7,2.8-8.4,6.3-11.4,10.9c-5.3,8.2-13.8,11.3-22.9,12.6c-3.6,0.5-6.1,1.9-8.4,4.6c-6.1,6.9-14.1,9.6-23.1,9.1
+					c-2.3-0.1-4.1,0.3-6.1,1.6c-7.3,4.6-14.8,8.5-23.9,6c-1.8-0.5-3.2,0.1-4.5,1.3c-3.9,3.4-8.2,4.7-13.3,2.3
+					c-3.5-1.6-6.9-1.6-10.4,0.7c-1.7,1.1-4.1,1.7-6.2,1.7c-6.8,0.1-13.5,1.6-20.1,2.4c-8.1,1-16.9,2.9-24.9-3
+					c-5.6-4.2-12.8-4.7-19.7-4.1c-3.9,0.3-7-0.5-10.1-3.1c-5.2-4.5-11.5-6.7-18.2-7.5c-4.1-0.5-5.5-2.3-4.2-6.4
+					c2.7-8.5,3.6-18,11.6-23.7c3.8-2.7,7.5-5.4,10.6-8.9c1.7-1.9,3.2-3.8,3.2-6.5c0-1.5,0.3-3.1,2.1-3.5c1.5-0.3,2.7,0.6,3.4,1.7
+					c3.7,6.7,9.5,6.2,15.6,4.8c5-1.2,9.1,0.8,12.2,4.1c3.8,4,8,4.3,12.7,3.3c11.3-2.4,20.1-8.5,26.7-17.8c1.6-2.3,3.4-4.1,6.1-4.8
+					c5.6-1.5,9.7-5,12.7-9.9c2.1-3.5,4.5-4.2,8.2-2.1c3.7,2.1,7.8,3.7,11.8,5.4c9,3.7,16.8-0.3,20.1-10c0.2-0.5,0.2-1,0.4-1.5
+					c0.8-2.3,0.2-5.8,2.8-6.6c2.9-0.9,3.8,2.6,5.3,4.4c4.9,5.5,16.6,7.6,23,4.1c0.1-0.1,0.4-0.1,0.4-0.2c4.5-9,16.6-13.9,13.6-26.8
+					c-0.9-4.1-0.4-8.6-0.1-13c0.2-3.7,1.7-6.6,4.6-9.5c4.8-4.9,8.2-11,5.8-18.5c-1.1-3.6-0.4-7.3-0.5-10.9c0-2.7,0.3-5.3-1.6-7.6
+					c-1.1-1.3-0.6-2.8-0.1-4.3c0.5-1.6,0.9-3.2,1.5-4.8c4.1-10.1-0.8-18.4-5.3-26.8c-3.1-5.8-6.5-10.5-13.8-12.4
+					c-6-1.6-11.5-5.9-16.6-9.8c-3.9-2.9-3.1-7.5-1-11.4c2-3.7,3.6-7.5,5.5-11.2c6.1-11.5,4.6-23.3,3.2-35.6
+					c-1.4-11.8-8.4-20.4-14.3-29.7c-1.7-2.7-4.4-3.9-7.6-4.1c-5-0.3-10.2,0.1-14.9-1.3c-6.3-1.8-12.4-0.3-18.4-0.8
+					c-11.5-1-21.1,2.5-30.4,8.6C462.7,496.2,458.2,497.1,444.9,497.1z"/>
+				</a>
+				<animate xlink:href="#colon_bowels_image"
+						  attributeName="opacity"
+					 	  values="0;1 " dur="0.5s"	  repeatCount="1" fill="freeze"
+						  begin="colon_bowels_path.mouseover"  end="colon_bowels_path.mouseout"
+						/>
+				<!--hack to show hidden image -->
+				<animate xlink:href="#colon_bowels_image" attributeName="width"   dur="0" from="471" to="471" begin="colon_bowels_path.mouseover"	  end="colon_bowels_path.mouseout"></animate>
+				<animate xlink:href="#colon_bowels_image" attributeName="height"  dur="0" from="585" to="585" begin="colon_bowels_path.mouseover"	  end="colon_bowels_path.mouseout"></animate>
+
+
+ 	</svg>

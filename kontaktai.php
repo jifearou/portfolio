@@ -34,7 +34,7 @@
 <!-- box-5 END -->
 
 <!-- contacts -->
-<div class="box l-box bgc-white  " id="contacts">
+<div class="box l-box bgc-white  " id="contacts" xmlns="http://www.w3.org/1999/html">
 	<div class="container box-xxl300">
 		<div class="row">
 			<div class="col-sm-12">
@@ -42,10 +42,11 @@
 					Kontaktai
 				</h2>
 				<h3 class="mg-md text-center ">
-					Darbo laikas nuo 9 iki 18 val.<br />Telefonas: +370 630 84239<br />El. Paštas: aaaa@BBBBBBB.com<br />Adresas: J. Tonkūno g. 4, Kaunas
+					Darbo laikas nuo 9 iki 18 val.<br />Telefonas: +370 630 84239<br />El. Paštas: <a href="mailto:info@matomi.lt"> info@Matomi.lt </a>
+					<br />Adresas: J. Tonkūno g. 4, Kaunas
 				</h3>
 				<div class="text-center push-top-percents-3">
-					<a href="index.html" class="btn  btn-xl btn-sq btn-wire"><span class="ion ion-android-send icon-spacer pull-left"></span>Susisiekite</a>
+					<a href="mailto:info@matomi.lt" class="btn  btn-xl btn-sq btn-wire"><span class="ion ion-android-send icon-spacer pull-left"></span>Susisiekite</a>
 				</div>
 			</div>
 		</div>

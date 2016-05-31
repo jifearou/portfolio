@@ -93,7 +93,7 @@ p {  font-size: 22px;  }
 #footer .contacts { padding-left: 35px;}
 
 
-/* Tv effects */
+/* ==== Tv effects ===== */
 .floating-top-down{
 	-webkit-animation-name: Floatingx;
 	-webkit-animation-duration: 4s;
@@ -140,6 +140,63 @@ p {  font-size: 22px;  }
 
 
 
+/* ==== KYM active organs icons ===== */
+.home-body-image {
+	position: relative;
+	background-image: url(../active-icons/9pagestart_full80pr.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 1004px;
+}
+.header-canvas {
+	/* position: absolute; */
+	/* left: 50%; */
+	margin-top: -1004px;
+}
+#header-svg-canvas {
+	position: relative;
+	/* left: -50%; */
+	width: 800px;
+	height: 1000px;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 20px;
+	margin: 0 auto;
+}
+#header-svg-canvas object:not(:root) {
+	overflow: hidden;
+}
+#header_shadow {
+	background: url('img/shadow.png') no-repeat top center;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	right: 0;
+	height: 20px;
+	z-index: 99;
+	width: 100%;
+}
+#header_shadow_top {
+	background: rgba(0, 0, 0, 0) url("img/shadow.png") no-repeat scroll center top;
+	height: 20px;
+	top: 98.5%;
+	left: 0;
+	position: absolute;
+	right: 0;
+	width: 100%;
+	z-index: 99;
+	border-top: 1px solid #f9f9f9;
+}
+#header_shadow {
+	border-top: 1px solid #f9f9f9;
+}
+.rotate-180 {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
 
 
 

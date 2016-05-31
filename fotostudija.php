@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/fotostudija_macbook_home_pink2.jpg" class="img-responsive center-block fadeInRight animDelay02 animated" />
+				<img src="img/fotostudija_macbook_home_red.jpg" class="img-responsive center-block fadeInRight animDelay02 animated" />
 			</div>
 		</div>
 	</div>

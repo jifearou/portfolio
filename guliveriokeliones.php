@@ -29,7 +29,7 @@
 			</div>
 
 			<div class="col-md-12 col-lg-7">
-				<img src="img/guliver_macbook_home_.jpg" class=" floating-top-down center-block  img-responsive  " />
+				<img src="img/guliver_macbook_home_2.jpg" class=" floating-top-down center-block  img-responsive  " />
 			</div>
 			<div class="col-md-12 col-lg-5 hidden-md hidden-sm hidden-xs ">
 				<h1 class=" mg-lg sm-shadow text-left text-center    push-top-percents-15">

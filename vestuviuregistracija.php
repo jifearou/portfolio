@@ -16,7 +16,7 @@
 
 <!-- box-89 -->
 <div class="box bgc-white l-box" id="box-89">
-	<div class="container box-lg">
+	<div class="container box-md">
 		<div class="row">
 			<div class="col-md-12 col-lg-7">
 				<h1 class=" mg-md sm-shadow text-center  ">
