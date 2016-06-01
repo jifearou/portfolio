@@ -140,18 +140,14 @@
 <!--								<div class="carousel-caption">-->
 <!--								</div>-->
 <!--							</div>-->
-<!--							<div class="item">-->
-<!--								<img src="img/home_carousel_tarptautine_patirtis.jpg" />-->
-<!--								<div class="carousel-caption">-->
-<!--								</div>-->
-<!--							</div>-->
 							<div class="item">
-								<img src="img/home_carousel_komunikacija--2.jpg" />
+								<img src="img/home_carousel_orginalumas--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
+
 							<div class="item">
-								<img src="img/home_carousel_orginalumas--2.jpg" />
+								<img src="img/home_carousel_komunikacija--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>

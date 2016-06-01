@@ -113,7 +113,7 @@
 				<div class="col-sm-3">
 					<div class="text-center">
 <!--						<span class="fa fa-file-text icon-round icon-md"></span>-->
-						<img class="    icon-round icon-md" src="img/servises_icons/seo.png" style="width:50%;  padding: 10px;">
+						<img class="    icon-round icon-md" src="img/servises_icons/seo-colorless.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
 			</div>
@@ -153,7 +153,7 @@
 				<div class="col-sm-3">
 					<div class="text-center">
 <!--						<span class="fa fa-rocket icon-round icon-md"></span>-->
-						<img class="    icon-round icon-md" src="img/servises_icons/logo-delete2.png" style="width:50%;  padding: 10px;">
+						<img class="    icon-round icon-md" src="img/servises_icons/logo-delete4.png" style="width:50%;  padding: 10px;">
 
 					</div>
 				</div>
