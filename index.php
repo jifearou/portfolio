@@ -113,24 +113,20 @@
 							</li>
 							<li data-target="#carousel-home-second" data-slide-to="5">
 							</li>
-							<li data-target="#carousel-home-second" data-slide-to="6" >
-							</li>
-							<li data-target="#carousel-home-second" data-slide-to="7" >
-							</li>
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="img/home_carousel_elparduotuv.jpg" />
+								<img src="img/home_carousel_elparduotuve--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item ">
-								<img src="img/home_carousel_internetispuslapis2.jpg" />
+								<img src="img/home_carousel_internetispuslapis--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item">
-								<img src="img/carusel_kaledos_3000x1275.jpg" />
+								<img src="img/home_carousel_dizainas.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
@@ -139,23 +135,23 @@
 								<div class="carousel-caption">
 								</div>
 							</div>
+<!--							<div class="item">-->
+<!--								<img src="img/home_carousel_tarptautine_patirtis2.jpg" />-->
+<!--								<div class="carousel-caption">-->
+<!--								</div>-->
+<!--							</div>-->
+<!--							<div class="item">-->
+<!--								<img src="img/home_carousel_tarptautine_patirtis.jpg" />-->
+<!--								<div class="carousel-caption">-->
+<!--								</div>-->
+<!--							</div>-->
 							<div class="item">
-								<img src="img/home_carousel_tarptautine_patirtis2.jpg" />
+								<img src="img/home_carousel_komunikacija--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item">
-								<img src="img/home_carousel_tarptautine_patirtis.jpg" />
-								<div class="carousel-caption">
-								</div>
-							</div>
-							<div class="item">
-								<img src="img/home_carousel_komunikacija.jpg" />
-								<div class="carousel-caption">
-								</div>
-							</div>
-							<div class="item">
-								<img src="img/home_carousel_orginalumas.jpg" />
+								<img src="img/home_carousel_orginalumas--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
