@@ -35,7 +35,7 @@
 
 <!-- contacts -->
 <div class="box l-box bgc-white  " id="contacts" xmlns="http://www.w3.org/1999/html">
-	<div class="container box-xxl300">
+	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center text-black sm-shadow mg-lg">

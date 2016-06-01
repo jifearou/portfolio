@@ -83,7 +83,8 @@
 				</h3>
 
 				<?php
-				include 'button-contact.html';
+					include 'button-contact.html';
+					include 'button-pop-up-form.html';
 				?>
 
 			</div>
@@ -116,26 +117,10 @@
 							</li>
 							<li data-target="#carousel-home-second" data-slide-to="7" >
 							</li>
-							<li data-target="#carousel-home-second" data-slide-to="8" >
-							</li>
-							<li data-target="#carousel-home-second" data-slide-to="9" >
-							</li>
-							<li data-target="#carousel-home-second" data-slide-to="10" >
-							</li>
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
 								<img src="img/home_carousel_elparduotuv.jpg" />
-								<div class="carousel-caption">
-								</div>
-							</div>
-							<div class="item">
-								<img src="img/home_carousel_elparduotuv-2x-ipads.jpg" />
-								<div class="carousel-caption">
-								</div>
-							</div>
-							<div class="item">
-								<img src="img/home_carousel_internetispuslapis.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
@@ -171,11 +156,6 @@
 							</div>
 							<div class="item">
 								<img src="img/home_carousel_orginalumas.jpg" />
-								<div class="carousel-caption">
-								</div>
-							</div>
-							<div class="item">
-								<img src="img/home_carousel_profesionalusmas.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>

@@ -33,14 +33,14 @@
 				</div>
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="ion ion-ios-cart-outline icon-round icon-md"></span>
+						<img class="    icon-round icon-md" src="img/servises_icons/internet-page5.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
 			</div> 
 			<div class="col-sm-6">
 				<div class="col-sm-3">
-					<div class="text-center">
-						<span class="fa fa-file-text  icon-round icon-md"></span>
+					<div class="text-center">	<img class="    icon-round icon-md" src="img/servises_icons/eshop.png" style="width:50%;  padding: 10px;">
+
 					</div>
 				</div>
 				<div class="col-sm-9">
@@ -74,14 +74,17 @@
 				</div>
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="fa fa-tasks icon-round icon-md"></span>
+<!--						<span class="fa fa-tasks icon-round icon-md"></span>-->
+						<img class="    icon-round icon-md" src="img/servises_icons/design.png" style="width:50%;  padding: 10px;">
+
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="fa fa-tasks icon-round icon-md"></span>
+<!--						<span class="fa fa-tasks icon-round icon-md"></span>-->
+						<img class="    icon-round icon-md" src="img/servises_icons/responsive7-.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
 				<div class="col-sm-9">
@@ -112,14 +115,17 @@
 				</div>
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="fa fa-file-text icon-round icon-md"></span>
+<!--						<span class="fa fa-file-text icon-round icon-md"></span>-->
+						<img class="    icon-round icon-md" src="img/servises_icons/seo.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="fa fa-code icon-round icon-md"></span>
+<!--						<span class="fa fa-code icon-round icon-md"></span>-->
+						<img class="    icon-round icon-md" src="img/servises_icons/optimization.png" style="width:50%;  padding: 10px;">
+
 					</div>
 				</div>
 				<div class="col-sm-9">
@@ -151,7 +157,9 @@
 				</div>
 				<div class="col-sm-3">
 					<div class="text-center">
-						<span class="fa fa-rocket icon-round icon-md"></span>
+<!--						<span class="fa fa-rocket icon-round icon-md"></span>-->
+						<img class="    icon-round icon-md" src="img/servises_icons/logo-delete2.png" style="width:50%;  padding: 10px;">
+
 					</div>
 				</div>
 			</div>
