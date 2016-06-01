@@ -88,6 +88,10 @@ p {  font-size: 22px;  }
 	font-size: 18px;
 	text-align: right;
 }
+#services h2 {
+	font-size: 40px;
+	line-height: 1.3;
+}
 
 #footer .site-navigation {  left: 20px;  }
 #footer .contacts { padding-left: 35px;}

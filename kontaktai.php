@@ -38,12 +38,12 @@
 	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
-				<h2 class=" text-center text-black sm-shadow mg-lg">
+				<h1 class=" text-center floating-top-down text-black sm-shadow mg-lg push-bottom-percents-3">
 					Kontaktai
-				</h2>
+				</h1>
 				<h3 class="mg-md text-center ">
 					Darbo laikas nuo 9 iki 18 val.<br />Telefonas: +370 630 84239<br />El. Paštas: <a href="mailto:info@matomi.lt"> info@Matomi.lt </a>
-					<br />Adresas: J. Tonkūno g. 4, Kaunas
+					<br />Adresas: Vokiečių g.152, Kaunas
 				</h3>
 				<div class="text-center push-top-percents-3">
 					<a href="mailto:info@matomi.lt" class="btn  btn-xl btn-sq btn-wire"><span class="ion ion-android-send icon-spacer pull-left"></span>Susisiekite</a>

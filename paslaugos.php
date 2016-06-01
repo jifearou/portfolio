@@ -9,9 +9,9 @@
 	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
-				<h2 class="text-center floating-top-down text-black sm-shadow mg-lg push-bottom-percents-5">
+				<h1 class="text-center floating-top-down text-black sm-shadow mg-lg push-bottom-percents-5">
 					Paslaugos
-				</h2>
+				</h1>
 			</div>
 		</div>
 		<div class="row voffset">
@@ -41,9 +41,9 @@
 					</div>
 				</div>
 				<div class="col-sm-9">
-					<h3 class="mg-md">
+					<h2 class="mg-md">
 						Elektroninių parduotuvių kūrimas
-					</h3>
+					</h2>
 					<p>
 						Kokybiškas darbas ir atsakinga komanda garantuos Jums sėkmę!
 						Kurdami el. parduotuves ar svetaines visada orientuojamės į paprastumą ir intuityvumą.
@@ -59,9 +59,9 @@
 		<div class="row voffset">
 			<div class="col-sm-6 ">
 				<div class="col-sm-9 ">
-					<h3 class="text-right mg-md">
+					<h2 class="text-right mg-md">
 						Internetinių svetainių dizaino kūrimas
-					</h3>
+					</h2>
 					<p class="text-right">
 						Kuriame išskirtinius ir praktiškus internetinių svetainių ir el. parduotuvių dizainus.
                         Orentuojamės į puikius vartotojo potyrius, praktiškumą ir intuityvumą.
@@ -85,9 +85,9 @@
 					</div>
 				</div>
 				<div class="col-sm-9">
-					<h3 class="mg-md">
+					<h2 class="mg-md">
 						Prisitaikantis dizainas
-					</h3>
+					</h2>
 					<p>
                         Sukurtas prisitaikantis dizainas prisitaiko prie įvairių įrenginių: telefonų, planšetinių ir įprastų kompiuterio ekranų (angl. <i>responsive design</i>).
                         Toks dizainas palengvina klientų naudojimasi Jūsų svetaine. Informacija yra randama greitai ir patogiai.
@@ -98,9 +98,9 @@
 		<div class="row voffset">
 			<div class="col-sm-6">
 				<div class="col-sm-9  ">
-					<h3 class="text-right mg-md">
+					<h2 class="text-right mg-md">
 						SEO
-					</h3>
+					</h2>
 					<p class="text-right">
                         Pagal statistiką 95 % interneto svetainių ir el. parduotuvių lankytojų informacijos apie produktus ar paslaugas ieško naudodamiesi Google paieškos sistema.
                         Todėl labai svarbu kad Jūsų svetainės turinys būtų pateikiamas tvarkingai, laikantis visų taisyklių.
@@ -126,9 +126,9 @@
 					</div>
 				</div>
 				<div class="col-sm-9">
-					<h3 class="mg-md">
+					<h2 class="mg-md">
 						Greitaveika
-					</h3>
+					</h2>
 					<p>
 						Greitai užsikraunantis internetinis puslapis ar el. parduotuvė – didelis žingsnis link sėkmės.
 						Greitas puslapio užkrovimo greitis padidins Jūsų lankytojų skaičių. Pastebėta, kad 70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
@@ -140,9 +140,9 @@
 		<div class="row voffset">
 			<div class="col-sm-6">
 				<div class="col-sm-9 ">
-					<h3 class="text-right mg-md">
+					<h2 class="text-right mg-md">
 						Logotipų kūrimas
-					</h3>
+					</h2>
 					<p class="text-right">
 						Prekinis ženklas ir įmonės stilius yra tai, ką Jūs ir Jūsų klientai pamatys pirmiausia.
 						Tai tarsi Jūsų vizitinė kortelė.

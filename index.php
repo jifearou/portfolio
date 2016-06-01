@@ -75,8 +75,11 @@
 	<div class="container box-xxl">
 		<div class="row">
 			<div class="col-sm-12">
+				<h1 class="text-center  mg-lg">
+					Internetių svetainių kūrimas
+				</h1>
 				<h2 class="text-center  mg-lg">
-					Interneto svetainė - tai tiesioginis įmonės reprezentavimas internete
+					 - tai tiesioginis įmonės reprezentavimas internete
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-5">
 					Mes pasirūpinsime Jūsų svetainės ar el. parduotuvės sukūrimu ir tolimesne priežiūra
@@ -84,7 +87,7 @@
 
 				<?php
 					include 'button-contact.html';
-					include 'button-pop-up-form.html';
+//					include 'button-pop-up-form.html';
 				?>
 
 			</div>
