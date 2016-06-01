@@ -18,17 +18,14 @@
 			<div class="col-sm-6">
 				<div class="col-sm-9  ">
 					<h3 class="text-right mg-md">
-						Interneto svetainių kūrimas
+                        Internetinių svetainių kūrimas
 					</h3>
 					<p class="text-right">
-						Kuriame interneto puslapius, kurie sėkmingai reprezentuos Jūsų įmonę ir Jūsų teikiamas paslaugas.
-						<br />Svetainėse šdiengiame turinio valdymo sistemą, kuri užtikrina:
-						<ul>
-							<li>Patogų turinio talpinimą</li>
-							<li>Jūsų turinio saugumą</li>
-							<li>Pritaikomumą paieškos sistemoms (Google ir kita)</li>
-						</ul>
-
+                        Kuriame internetinius puslapius, kurie sėkmingai reprezentuos Jūsų įmonę bei Jūsų teikiamas paslaugas.
+                        <br/>Diegiame turinio valdymo sistemą, kuri užtikrina:<br/>
+                        Pritaikomumą paieškos sistemoms (Google ir kt.) <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
+                        Patogų turinio talpinimą <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
+                        Jūsų turinio saugumą <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
 					</p>
 				</div>
 				<div class="col-sm-3">
@@ -49,10 +46,12 @@
 					</h3>
 					<p>
 						Kokybiškas darbas ir atsakinga komanda garantuos Jums sėkmę!
-						Kurdami el. parduotuves ar svetaines visada orientuojamės į paprastumą ir intuityvumą. Neblaškančios spalvos. Dėmesys orientuotas į pardavimą.
-						<br />Interneto puslapis ar elektroninė parduotuvė yra jūsų investiciją.
-						<!--						Elektroninių parduotuvių kūrimui naudojame būtent tam kurtą patikimą sistemą.-->
-						Dirbame taip, kad po metų nereiktų perdaryti.
+						Kurdami el. parduotuves ar svetaines visada orientuojamės į paprastumą ir intuityvumą.
+<!--                        Įdiegiame užsakymų dokumentų generafimą-->
+<!--                        Neblaškančios spalvos. Dėmesys orientuotas į pardavimą.-->
+<!--						Interneto puslapis ar elektroninė parduotuvė yra jūsų investiciją.-->
+<!--						Elektroninių parduotuvių kūrimui naudojame būtent tam kurtą patikimą sistemą.-->
+<!--						Dirbame taip, kad po metų nereiktų perdaryti.-->
 					</p>
 				</div>
 			</div>
@@ -61,15 +60,13 @@
 			<div class="col-sm-6 ">
 				<div class="col-sm-9 ">
 					<h3 class="text-right mg-md">
-						Internetinių puslapių Dizainas
+						Internetinių svetainių dizaino kūrimas
 					</h3>
 					<p class="text-right">
-						Kuriame išskirtinius ir praktiškus el. parduotuvių ir puslapių dizainus.
-						Profesionalus dizainas turi tik būtinus elementus.
-						Orentuojamės į puikius vartotojo potyrius (UX-user experience).
-
-						<br />Todėl pabrėžtinai stengiamės dėl praktiškumo ir intuityvumo, nes tai priveda prie sklandesnių ir didesnių pardavimų.
-						Galime pasiūlyti "Pixel Perfect" - aukščiausios kokybės vieno pixel-taško tikslumu kuriamus dizainus.
+						Kuriame išskirtinius ir praktiškus internetinių svetainių ir el. parduotuvių dizainus.
+                        Orentuojamės į puikius vartotojo potyrius, praktiškumą ir intuityvumą.
+						Galime sukurti "Pixel Perfect" - aukščiausios kokybės dizainus.
+                        Profesionalus dizainas turi tik būtinus elementus.
 					</p>
 				</div>
 				<div class="col-sm-3">
@@ -89,12 +86,11 @@
 				</div>
 				<div class="col-sm-9">
 					<h3 class="mg-md">
-						Prisitaikantis dizainas (Responsive)
+						Prisitaikantis dizainas
 					</h3>
 					<p>
-						Sukūrtą prisitaikantį dizainą testuojame panaudojant skirtingus mobiliuosius ir planšetinius įrenginius.
-						Sukurtas prisitaikantis dizainas prisitaiko prie įvairių įrenginių: telefonų, planšetinių ir įprastų kompiuterių ekranų.
-						<br />Tai smarkiai išplėčia pasiekiamų klientų ratą, palieka gerą patirti lankytojui (UX), todėl klientai grįšta kur kas dažniau.
+                        Sukurtas prisitaikantis dizainas prisitaiko prie įvairių įrenginių: telefonų, planšetinių ir įprastų kompiuterio ekranų (angl. <i>responsive design</i>).
+                        Toks dizainas palengvina klientų naudojimasi Jūsų svetaine. Informacija yra randama greitai ir patogiai.
 					</p>
 				</div>
 			</div>
@@ -106,10 +102,11 @@
 						SEO
 					</h3>
 					<p class="text-right">
-						Sudarome geriausius raktažodžius jūsų interneto svetainei, kad klientai lengvai rastų jus Google paieškoje.
-						Optimizuojame interneto svetaines ir el. parduotuves paieškos sistemoms (Google).
-						<br /><br />Nes pagal statistiką, apie 95% interneto svetainių ir el. parduotuvių lankytojų informacijos apie produktus ar paslaugas ieško naudodamiesi google paieškos sistema.
-						Tai pati geriausia investicija, nes tai yra ilgalaikė reklama internete reikalaujanti mažiausiai investicijų lyginant su kitomis reklamos formomis.
+                        Pagal statistiką 95 % interneto svetainių ir el. parduotuvių lankytojų informacijos apie produktus ar paslaugas ieško naudodamiesi Google paieškos sistema.
+                        Todėl labai svarbu kad Jūsų svetainės turinys būtų pateikiamas tvarkingai, laikantis visų taisyklių.
+                        Mūsų naudojama turinio valdymo sistema yra pritaikyta paieškos sistemoms.
+                        Konsultuojame kaip taisiklyngai talpinti svetainės turinį.
+<!--						Tai pati geriausia investicija, nes tai yra ilgalaikė reklama internete reikalaujanti mažiausiai investicijų lyginant su kitomis reklamos formomis.-->
 
 					</p>
 				</div>
@@ -130,14 +127,12 @@
 				</div>
 				<div class="col-sm-9">
 					<h3 class="mg-md">
-						Optimizavimas (greitas užkrovimas)
+						Greitaveika
 					</h3>
 					<p>
 						Greitai užsikraunantis internetinis puslapis ar el. parduotuvė – didelis žingsnis link sėkmės.
-						<br />Puslapio užkrovimo greitis padidins Jūsų lankytojų skaičių ir stipriai skatina klientus sugrįžti atgal
-						(pastebėta, kad virš 70% klientų nebegrįžta po nekokybiško apsipirkimo).
-						<br /><br />Svetainės užkrovimo greitis – vienas iš kriterijų, kuris daro poveikį puslapio paieškos reitingams (Google).
-						Kuo puslapis greičiau bus užkraunamas, tuo aukštesnėse Google pozicijose jis bus.
+						Greitas puslapio užkrovimo greitis padidins Jūsų lankytojų skaičių. Pastebėta, kad 70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
+						Greitas puslapio užkrovimo greitis taip pat svarbus sudarant svetainės reitingą - kuo puslapis greičiau bus užkraunamas, tuo aukštesnėse Google pozicijose jis bus.
 					</p>
 				</div>
 			</div>
@@ -150,9 +145,9 @@
 					</h3>
 					<p class="text-right">
 						Prekinis ženklas ir įmonės stilius yra tai, ką Jūs ir Jūsų klientai pamatys pirmiausia.
-						Tai tarsi Jūsų vizitinė kortelė - komunikacijai su klientu.
+						Tai tarsi Jūsų vizitinė kortelė.
 						Logotipas, tai ženklas dėl kurio įmonė ar produktas tampa lengvai atpažįstamas ir pastebimas.
-						Tinkamas logotipo dizainas yra stipri marketingo priemonė.
+<!--						Tinkamas logotipo dizainas yra stipri marketingo priemonė.-->
 					</p>
 				</div>
 				<div class="col-sm-3">
