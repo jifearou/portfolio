@@ -1,5 +1,5 @@
 <?php
-	include 'header.html';
+	include 'header.php';
 ?>
 
 
@@ -22,7 +22,7 @@
 					</h3>
 					<p class="text-right">
                         Kuriame internetinius puslapius, kurie sėkmingai reprezentuos Jūsų įmonę bei Jūsų teikiamas paslaugas.
-                        <br/>Diegiame turinio valdymo sistemą, kuri užtikrina:<br/>
+                        <br/>Diegiame turinio valdymo sistemą, kuri užtikrina:<br/><br/>
                         Pritaikomumą paieškos sistemoms (Google ir kt.) <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
                         Patogų turinio talpinimą <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
                         Jūsų turinio saugumą <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>

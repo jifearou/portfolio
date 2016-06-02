@@ -3,30 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="internetiniu puslapiu kurimas,  elektroniniu parduotuviu kurimas, internetiniai puslapiai, internetines svetaines, internetinis puslapis, interneto puslapis, interneto puslapiai,    unikalus dizainas, logo, logotipai, web dizainas, svetainių kūrimas     ">
-    <meta name="description" content="Profesionalus interneto svetainių kūrimas su unikaliu dizainu ir valdymo sistema, elektroninių parduotuvių kūrimas, svetainių dizainas, logo logotipų kūrimas, prisitaikantis dizainas. Jūsų šuolis į Sėkmę. Internetinių puslapių kūrimas, interneto svetainių kūrimas, tinklapių kūrimas, WEB sprendimai. ">
+    <meta name="description" content="Profesionalus interneto svetainių kūrimas su unikaliu dizainu ir valdymo sistema, elektroninių parduotuvių kūrimas, unikalūs svetainių dizainai, logo logotipų kūrimas, prisitaikantis dizainas. Jūsų šuolis į Sėkmę. Internetinių puslapių kūrimas, interneto svetainių kūrimas, tinklapių kūrimas, WEB sprendimai. ">
 
     <link rel="shortcut icon" type="image/png" href="apple-touch-icon-180x180.png" />
-
-    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png" sizes="192x192">
-    <link rel="shortcut icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-
-
-
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
@@ -39,10 +18,14 @@
 
 
     <title>Internetinių puslapių ir parduotuvių kūrimas</title>
+    <?php include_once("fb-pixel.php") ?>
 </head>
 
 
 <body>
+
+<?php include_once("analyticstracking.php") ?>
+
 <!-- Main container -->
 <div class="page-container">
 
