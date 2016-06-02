@@ -22,7 +22,7 @@
 				<h1 class=" mg-lg sm-shadow text-center text-white">
 					El. Parduotuvė
 				</h1>
-				<img src="img/kaledos_macbook_home_yallow3.jpg" class=" center-block  width-percents-82 img-responsive fadeInLeft   animated" />
+				<img src="img/kaledos_macbook_home_yallow3.jpg" class=" center-block  width-percents-82 img-responsive fadeInLeft animDelay02  animated" />
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10  hidden-xs hidden-sm hidden-md  ">
 				<img   src="img/kaledos_iphone_yallow2.jpg"   class="floating-top-down   balloon-action iphone-kymsurgery  " />

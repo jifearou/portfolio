@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-md-12 col-lg-7">
 <!--				<div class="bg" data-ibg-bg="img/neringa_macbook_home_green.jpg"></div>-->
-				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive fadeInRight   animated" />
+				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive floating-top-down  " />
 			</div>
 		</div>
 	</div>

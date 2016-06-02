@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/fotostudija_macbook_home_red.jpg" class="img-responsive center-block fadeInRight animDelay02 animated" />
+				<img src="img/fotostudija_macbook_home_red.jpg" class="img-responsive center-block  floating-top-down  " />
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 				</h2>
 				<h3 class="text-center mg-lg push-bottom-percents-5">
 					Poreikiai išgirsti
-				</h3><img src="img/fotostudija_iphone_lt.jpg" class="floating-top-down img-responsive center-block" />
+				</h3><img src="img/fotostudija_iphone_lt2.jpg" class="floating-top-down img-responsive center-block" />
 			</div>
 		</div>
 	</div>

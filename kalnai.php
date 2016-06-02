@@ -24,7 +24,7 @@
 				</h1>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/kalnai_macbook_1600x_blue.jpg" class="img-responsive fadeInRight animDelay02 animated" />
+				<img src="img/kalnai_macbook_1600x_blue.jpg" class="img-responsive floating-top-down  center-block" />
 			</div>
 		</div>
 	</div>
