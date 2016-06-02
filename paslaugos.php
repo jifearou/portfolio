@@ -28,14 +28,14 @@
                         Jūsų turinio saugumą <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
 					</p>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3 hidden-xs">
 					<div class="text-center">
 						<img class="    icon-round icon-md" src="img/servises_icons/internet-page5.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
 			</div> 
 			<div class="col-sm-6">
-				<div class="col-sm-3">
+				<div class="col-sm-3 hidden-xs">
 					<div class="text-center">	<img class="    icon-round icon-md" src="img/servises_icons/eshop.png" style="width:50%;  padding: 10px;">
 
 					</div>
@@ -69,18 +69,16 @@
                         Profesionalus dizainas turi tik būtinus elementus.
 					</p>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3  hidden-xs">
 					<div class="text-center">
-<!--						<span class="fa fa-tasks icon-round icon-md"></span>-->
 						<img class="    icon-round icon-md" src="img/servises_icons/design.png" style="width:50%;  padding: 10px;">
 
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6">
-				<div class="col-sm-3">
+				<div class="col-sm-3 hidden-xs">
 					<div class="text-center">
-<!--						<span class="fa fa-tasks icon-round icon-md"></span>-->
 						<img class="    icon-round icon-md" src="img/servises_icons/responsive7-.png" style="width:50%;  padding: 10px;">
 					</div>
 				</div>
@@ -110,7 +108,7 @@
 
 					</p>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3  hidden-xs">
 					<div class="text-center">
 <!--						<span class="fa fa-file-text icon-round icon-md"></span>-->
 						<img class="    icon-round icon-md" src="img/servises_icons/seo-colorless.png" style="width:50%;  padding: 10px;">
@@ -118,9 +116,8 @@
 				</div>
 			</div>
 			<div class="col-sm-6">
-				<div class="col-sm-3">
+				<div class="col-sm-3  hidden-xs">
 					<div class="text-center">
-<!--						<span class="fa fa-code icon-round icon-md"></span>-->
 						<img class="    icon-round icon-md" src="img/servises_icons/optimization.png" style="width:50%;  padding: 10px;">
 
 					</div>
@@ -150,9 +147,8 @@
 <!--						Tinkamas logotipo dizainas yra stipri marketingo priemonė.-->
 					</p>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-3  hidden-xs">
 					<div class="text-center">
-<!--						<span class="fa fa-rocket icon-round icon-md"></span>-->
 						<img class="    icon-round icon-md" src="img/servises_icons/logo-delete4.png" style="width:50%;  padding: 10px;">
 
 					</div>

@@ -1419,7 +1419,8 @@ iframe{
 	#services .text-right,
 	#services .text-left,
 	#services p,
-	#services h3 {
+	#services h3,
+	#services h2 {
 		text-align: center;
 	}
 	#services h3 {
