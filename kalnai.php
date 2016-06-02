@@ -75,7 +75,7 @@
 <!-- box-85 -->
 <div class="box l-box bgc-white" id="box-85">
 	<div class="container box-xxl">
-		<div class="row">
+		<div class="row push-percents-lft-5 push-percents-rgt-5">
 			<h2 class="text-center  mg-lg">
 				Prisitaikantis Dizainas
 			</h2>

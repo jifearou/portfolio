@@ -128,7 +128,7 @@
 					Brangiausiam Turtui – Geriausi Sprendimai
 				</h2>
 				<h3 class="text-center  mg-lg">
-					Profesionalus dizainas turi tik svarbiausius elementus, kurie neblaško lankytojo.<br />Origanalus ir skoningas stilius. Klientai laimingi jūsų išvaizda internete, laimingi žmonės perka daugiau.
+					Profesionalus dizainas turi tik svarbiausius elementus, kurie neblaško lankytojo.<br />Origanalus ir skoningas stilius.
 				</h3>
 				<?php
 				include 'button-contact.html';
@@ -232,7 +232,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg tc-outer-space">
-					Sprendimai Kurie Išplėčia Verslo Pausaulį
+					Sprendimai kurie išplėčia verslo Pausaulį
 				</h2>
 				<?php
 				include 'button-contact-black-frame.html';

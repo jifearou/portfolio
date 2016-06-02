@@ -50,11 +50,11 @@
 	<!-- box-68 -->
 	<div class="box bgc-white" id="box-68">
 		<div class="container box-xxl">
-			<div class="row">
+			<div class="row push-percents-lft-5 push-percents-rgt-5">
 					<h2 class=" text-center mg-lg tc-outer-space">
 						Pasiekiamumas
 					</h2>
-					<h3 class="text-center  mg-lg tc-outer-space">
+					<h3 class="text-center  mg-lg tc-outer-space ">
 						Sukurtas minimalistinis ir patogus Dizainas.<br />Tinklapis lengvai prisitaiko prie įvairių įrenginių
 					</h3>
 

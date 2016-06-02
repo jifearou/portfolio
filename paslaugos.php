@@ -128,7 +128,7 @@
 					</h2>
 					<p>
 						Greitai užsikraunantis internetinis puslapis ar el. parduotuvė – didelis žingsnis link sėkmės.
-						Greitas puslapio užkrovimo greitis padidins Jūsų lankytojų skaičių. Pastebėta, kad 70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
+						Greitas puslapio užkrovimo laikas padidins Jūsų lankytojų skaičių. Pastebėta, kad 70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
 						Greitas puslapio užkrovimo greitis taip pat svarbus sudarant svetainės reitingą - kuo puslapis greičiau bus užkraunamas, tuo aukštesnėse Google pozicijose jis bus.
 					</p>
 				</div>

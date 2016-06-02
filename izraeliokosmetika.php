@@ -223,7 +223,7 @@
 				</h2>
 				<h3 class="mg-md text-center push-bottom-percents-10">
 					Išskirtinis Google žemėlapio dizainas.
-					<br />Parduotuvių kontaktia ir užklausos forma - viskas vienoje vietoje.
+					<br />Parduotuvių kontaktai ir užklausos forma - viskas vienoje vietoje.
 				</h3>
 			</div>
 			<div class="col-md-12 col-lg-6">
