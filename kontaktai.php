@@ -90,6 +90,6 @@
 
 
 <?php
-include 'row-hours-of-work.html';
+//include 'row-hours-of-work.html';
 	include 'footer.html';
 ?>
