@@ -7,7 +7,7 @@
 
 	<!-- box-20 -->
 	<div class="box bgc-anti-flash-white l-box" id="box-20-second">
-		<div class="container box-lg">
+		<div class="container box-sm">
 			<div class="row">
 				<div class="col-sm-12">
 					<div id="carousel-home-second" class="carousel slide no-shadows" data-ride="carousel">
