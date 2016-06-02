@@ -166,7 +166,7 @@
 		<div class="container box-lg">
 			<div class="row">
 				<div class="col-sm-12 push-percents-20">
-					<img src="img/guliver_eff_ipad_details_non_dropShadw.jpg" class="floating-top-down img-responsive" />
+					<img src="img/guliver_eff_ipad_details_non_dropshadw.jpg" class="floating-top-down img-responsive" />
 				</div>
 			</div>
 		</div>
