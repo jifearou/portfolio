@@ -9,13 +9,14 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
-    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" href="./css/animate.css" />
-    <script src="./js/jquery-2.1.0.js"></script>
-    <script src="./js/bootstrap.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.min.css">
+    <link rel="stylesheet" href="./css/animate.min.css" />
+    <script src="./js/jquery-2.1.0.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
     <script src="./js/interactive_bg-master/jquery.interactive_bg.min.js"></script>
-    <script src="js/box.js"></script><link rel='stylesheet' href='./css/font-awesome.min.css'/><link rel='stylesheet' href='./css/ionicons.min.css'/>
+    <script src="js/box.min.js"></script>
+    <link rel='stylesheet' href='./css/font-awesome.min.css'/><link rel='stylesheet' href='./css/ionicons.min.css'/>
 
 
     <title>Internetinių puslapių ir parduotuvių kūrimas</title>
