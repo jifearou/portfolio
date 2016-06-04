@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta name="keywords" content="internetiniu puslapiu kurimas,  elektroniniu parduotuviu kurimas, internetiniai puslapiai, internetines svetaines, internetinis puslapis, interneto puslapis, interneto puslapiai,    unikalus dizainas, logo, logotipai, web dizainas, svetainių kūrimas     ">
     <meta name="description" content="Profesionalus interneto svetainių kūrimas su unikaliu dizainu ir valdymo sistema, elektroninių parduotuvių kūrimas, unikalūs svetainių dizainai, logo logotipų kūrimas, prisitaikantis dizainas. Jūsų šuolis į Sėkmę. Internetinių puslapių kūrimas, interneto svetainių kūrimas, tinklapių kūrimas, WEB sprendimai. ">
+ 
+    <link rel="shortcut icon" type="image/png" href="img/servises_icons/favicon114.png" />
 
-    <link rel="shortcut icon" type="image/png" href="apple-touch-icon-180x180.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
