@@ -185,8 +185,6 @@
 		<div class="container box-xxl200">
 
 
-
-
 			<div class="row voffset">
 				<div class="col-sm-6">
 					<div class="col-sm-9  ">
@@ -202,13 +200,13 @@
 					</div>
 					<div class="col-sm-3 hidden-xs">
 						<div class="text-center">
-							<img class="    icon-round icon-md" src="img/servises_icons/internet-page5.png" style="width:50%;  padding: 10px;">
+							<img class="    icon-round icon-md" src="img/servises_icons/tobulinimas.png" style="width:50%;  padding: 10px;">
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="col-sm-3 hidden-xs">
-						<div class="text-center">	<img class="    icon-round icon-md" src="img/servises_icons/eshop.png" style="width:50%;  padding: 10px;">
+						<div class="text-center">	<img class="    icon-round icon-md" src="img/servises_icons/adwords-logo-3.png" style="width:50%;  padding: 10px;">
 
 						</div>
 					</div>
@@ -243,7 +241,7 @@
 					</div>
 					<div class="col-sm-3  hidden-xs">
 						<div class="text-center">
-							<img class="    icon-round icon-md" src="img/servises_icons/design.png" style="width:50%;  padding: 10px;">
+							<img class="    icon-round icon-md" src="img/servises_icons/google_analytics4.png" style="width:50%;  padding: 10px;">
 
 						</div>
 					</div>
@@ -251,7 +249,7 @@
 				<div class="col-sm-6">
 					<div class="col-sm-3 hidden-xs">
 						<div class="text-center">
-							<img class="    icon-round icon-md" src="img/servises_icons/responsive7-.png" style="width:50%;  padding: 10px;">
+							<img class="     icon-round icon-md" src="img/servises_icons/mail.png" style="width:50%;  padding: 10px;">
 						</div>
 					</div>
 					<div class="col-sm-9">
@@ -281,7 +279,7 @@
 					<div class="col-sm-3  hidden-xs">
 						<div class="text-center">
 							<!--						<span class="fa fa-file-text icon-round icon-md"></span>-->
-							<img class="    icon-round icon-md" src="img/servises_icons/seo-colorless.png" style="width:50%;  padding: 10px;">
+							<img class="    icon-round icon-md" src="img/servises_icons/photo.png" style="width:50%;  padding: 10px;">
 						</div>
 					</div>
 				</div>
