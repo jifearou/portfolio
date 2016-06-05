@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="style.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="./css/animate.min.css" />
     <script src="./js/jquery-2.1.0.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
@@ -36,7 +36,10 @@
         <div class="container box-md">
             <nav class="navbar row">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.php">Matomi.lt</a>
+                    <a class="navbar-brand" href="index.php">
+                        <img class="logo" alt="logo" height="35" src="img/logo7.png" >
+                        Matomi.lt
+                    </a>
                     <button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
                         <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
                     </button>

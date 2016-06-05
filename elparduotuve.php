@@ -71,7 +71,7 @@
 
 
 <!-- box-69 -->
-<div class="box bgc-meat-brown bg-eff-desktop-3 d-box hidden-xs" id="box-69">
+<div class="box bgc-meat-brown bg-eff-desktop-3 b-parallax d-box hidden-xs" id="box-69">
 	<div class="container box-xxl400">
 		<div class="row">
 			<div class="col-sm-12">
