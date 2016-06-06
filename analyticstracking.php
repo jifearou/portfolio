@@ -7,7 +7,7 @@
 
     ga('create', 'UA-78690036-1', 'auto');
     ga('send', 'pageview');
-    ga('set', 'userId', {{78690036}}); // Set the user ID using signed-in user_id.
+    ga('set', 'userId', 78690036); // Set the user ID using signed-in user_id.
 
 </script>
 <!-- /google analytics Code -->

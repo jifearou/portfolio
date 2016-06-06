@@ -1,47 +1,34 @@
 $(document).ready(function() {
 
+    // Request form
+    var request_submit_button = $('#request_submit_button');
+    request_submit_button.on('click', function(event) {
+        var request_form = $('#request_form');
+        var request_alerts = $('#request_alerts');
 
+        request_submit_button.prop('disabled', true);
+        request_alerts.html('<div class="alert alert-info"><i class="fa fa-spinner fa-spin"></i> Siunčiama.</div>').fadeIn();
 
-    // ==== contact button script =====
-    function request_submit_function(form, event) {
-        event.preventDefault();
-
-        $(form).find('#request_status').html('<div class="alert alert-info"><i class="fa fa-spinner fa-spin"></i> Užklausa siunčiama. Prašome palaukti.</div>').fadeIn();
-        $(form).find('#request_submit_button').prop('disabled', true);
-
-        $.post($(form).attr('action'), $(form).serialize(), null, 'json')
+        $.post(request_form.attr('action'), request_form.serialize(), null, 'json')
             .done(function(response) {
-                console.log(response);
+                //console.log(response);
                 if (response.status == 'success') {
-                    $(form).find('#request_status').html('<div class="alert alert-success">' + response.message + 'aaaaaa</div>');
+                    request_alerts.html('<div class="alert alert-success"><i class="fa fa-check-circle" aria-hidden="true"></i> ' + response.message + '</div>').fadeIn();
                 } else {
-                    $(form).find('#request_status').html('<div class="alert alert-danger">' + response.message + 'bbbbbbbb</div>');
-                    $(form).find('#request_submit_button').prop('disabled', false);
+                    request_alerts.html('<div class="alert alert-danger"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> ' + response.message + '</div>').fadeIn();
+                    request_submit_button.prop('disabled', false);
                 }
             })
             .fail(function() {
-                console.log('fail');
-                $(form).find('#request_status').html('<div class="alert alert-danger">Jūsų užklausos išsiųsti nepavyko. Bandykite dar kartą.</div>');
-                $(form).find('#request_submit_button').prop('disabled', false);
+                //console.log('fail');
+                request_alerts.html('<div class="alert alert-danger"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Jūsų užklausos išsiųsti nepavyko. Bandykite dar kartą.</div>').fadeIn();
+                request_submit_button.prop('disabled', false);
             })
             .always(function() {
-                console.log('always');
-                $(form).find('#request_status').delay(8000).fadeOut();
+                //console.log('always');
+                //request_alerts.delay(8000).fadeOut();
             });
-    }
-
-    // Request form
-    var request_form = $('#request_form');
-    //alert($('#box-21'));
-    request_form.submit(function(event) {
-        request_submit_function(request_form, event);
     });
-
-
-
-
-
-
 
     //jqfloat.js script
     var clicked = false;

@@ -42,12 +42,16 @@
 					Kontaktai
 				</h1>
 				<h3 class="mg-md text-center ">
-					Darbo laikas nuo 9 iki 18 val.<br />Telefonas: +370 630 52960<br />El. Paštas: <a href="mailto:info@matomi.lt"> info@Matomi.lt </a>
-					<br />Adresas: Vokiečių g.152, Kaunas
+					Darbo laikas I-V nuo 9 iki 18 val.<br />
+                    Telefonas: +370 630 52960<br />
+                    El. Paštas: <a href="mailto:info@matomi.lt">info@matomi.lt</a><br/>
+                    KAUNAS
 				</h3>
-				<div class="text-center push-top-percents-3">
-					<a href="mailto:info@matomi.lt" class="btn  btn-xl btn-sq btn-wire"><span class="ion ion-android-send icon-spacer pull-left"></span>Susisiekite</a>
-				</div>
+                <div class="push-top-percents-3">
+                    <?php
+                        include 'button-contact.html';
+                    ?>
+                </div>
 			</div>
 		</div>
 	</div>

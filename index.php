@@ -76,7 +76,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h1 class="text-center  mg-lg">
-					Internetių svetainių kūrimas
+					Internetinė svetainė
 				</h1>
 				<h2 class="text-center  mg-lg">
 					 - tai tiesioginis įmonės reprezentavimas internete
@@ -87,7 +87,6 @@
 
 				<?php
 					include 'button-contact.html';
-//					include 'button-pop-up-form.html';
 				?>
 
 			</div>
