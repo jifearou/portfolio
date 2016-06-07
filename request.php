@@ -13,7 +13,7 @@ error_reporting(E_ERROR);
 
 include 'functions.php';
 
-$primary_email = "sungaila.d@gmail.com";
+$primary_email = "info@matomi.lt";
 
 //data_log($_POST);
 
