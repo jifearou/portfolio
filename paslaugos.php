@@ -67,12 +67,12 @@
 							Kuriame išskirtinius ir praktiškus internetinių svetainių ir el. parduotuvių dizainus.
 							Orentuojamės į puikius vartotojo potyrius, praktiškumą ir intuityvumą.
 							Galime sukurti "Pixel Perfect" - aukščiausios kokybės dizainus.
-							Profesionalus dizainas turi tik būtinus elementus.
+<!--							Profesionalus dizainas turi tik būtinus elementus.-->
 						</p>
 					</div>
 					<div class="col-sm-3  hidden-xs">
 						<div class="text-center">
-							<img class="    icon-round icon-md" src="img/servises_icons/design.png" style="width:50%;  padding: 10px;">
+							<img class="icon-round icon-md" src="img/servises_icons/design.png" style="width:50%;  padding: 10px;">
 
 						</div>
 					</div>
@@ -80,7 +80,7 @@
 				<div class="col-sm-6">
 					<div class="col-sm-3 hidden-xs">
 						<div class="text-center">
-							<img class="    icon-round icon-md" src="img/servises_icons/responsive7-.png" style="width:50%;  padding: 10px;">
+							<img class="icon-round icon-md" src="img/servises_icons/responsive7-.png" style="width:50%;  padding: 10px;">
 						</div>
 					</div>
 					<div class="col-sm-9">
@@ -88,8 +88,7 @@
 							Prisitaikantis dizainas
 						</h2>
 						<p>
-							Sukurtas prisitaikantis dizainas prisitaiko prie įvairių įrenginių: telefonų, planšetinių ir įprastų kompiuterio ekranų (angl. <i>responsive design</i>).
-							Toks dizainas palengvina klientų naudojimasi Jūsų svetaine. Informacija yra randama greitai ir patogiai.
+							Toks dizainas prisitaiko prie įvairių įrenginių: telefonų, planšetinių ir įprastų kompiuterio ekranų (angl. <i>responsive design</i>). Tai palengvina klientų naudojimasi Jūsų svetaine. Informacija yra randama patogiai ir greitai.
 						</p>
 					</div>
 				</div>
@@ -104,7 +103,7 @@
 							Pagal statistiką 95 % interneto svetainių ir el. parduotuvių lankytojų informacijos apie produktus ar paslaugas ieško naudodamiesi Google paieškos sistema.
 							Todėl labai svarbu kad Jūsų svetainės turinys būtų pateikiamas tvarkingai, laikantis visų taisyklių.
 							Mūsų naudojama turinio valdymo sistema yra pritaikyta paieškos sistemoms.
-							Konsultuojame kaip taisiklyngai talpinti svetainės turinį.
+							Taip pat konsultuojame kaip taisiklyngai talpinti svetainės turinį.
 	<!--						Tai pati geriausia investicija, nes tai yra ilgalaikė reklama internete reikalaujanti mažiausiai investicijų lyginant su kitomis reklamos formomis.-->
 
 						</p>
@@ -189,13 +188,14 @@
 				<div class="col-sm-6">
 					<div class="col-sm-9  ">
 						<h2 class="text-right mg-md">
-							Stebėjimas ir tobulinimas
+							Priežiūra ir tobulinimas
 						</h2>
 						<p class="text-right">
-							Stebime ir testuojame jūsų puslapį įvairiais aspektais siekiant pakelti pardavimų kokybę ir gryžtančių vartotojų skaičių: <br/><br/>
-							Interneto svetainių užkrovimo greičio auditas <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
-							UX (vartotojų pojučių) testavimas ir tobulinimas <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
-							Interneto svetainių pritaikymas mobiliems įrenginiams <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
+                            Atliekame internetinių svetainių nuolatinę priežiūrą.
+							Stebime ir testuojame jūsų puslapį įvairiais aspektais siekiant padidinti pardavimus ir grįžtančių vartotojų skaičių:<br/><br/>
+							Lankytojo naršymo patirties testavimas ir tobulinimas <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
+							Pritaikymas mobiliems įrenginiams <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
+                            Svetainės greitaveikos stebėsena <i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i><br/>
 						</p>
 					</div>
 					<div class="col-sm-3 hidden-xs">
@@ -214,14 +214,16 @@
 						<h2 class="text-left mg-md">
 							Google AdWords
 						</h2>
-						<p >
-							Pradėkite reklamuotis „Google“ šiandien.
-							Klientai jūsų skelbimą pamato būtent tą akimirką, kai klientai „Google“ ieško panašių prekių ar paslaugų.
-							Mokate tik tada, kai kleintai apsilankys jūsų svetainėje.
-							AdWords reklama atveda motyvuotus ir susidomėjusius Jūsų pasiūlymu potencialius klientus.
-							Taikykite savo reklamą klientams tik tam tikrose šalyse, regionuose ar miestuose arba nustatytu atstumu nuo savo įmonės ar parduotuvės. <br/><br/>
-							Kaip pasiekti klientus? Kaip išplėsti pardavimus?<br/>
-							Šiuos darbus atliks mūsų profesionalai, kurie suorganizuos ir įvykdys rinkodaros kampanijas Jūsų verslui.
+						<p>
+							Pradėkite reklamuotis „Google“ jau šiandien!
+<!--							Klientai Jūsų skelbimą pamato būtent tą akimirką, kai klientai „Google“ ieško panašių prekių ar paslaugų.-->
+                            Google AdWords reklama atveda motyvuotus ir potencialius klientus.
+							Mokate tik tada, kai klientai apsilankys jūsų svetainėje.
+<!--							Taikykite savo reklamą klientams tik tam tikrose šalyse, regionuose ar miestuose arba nustatytu atstumu nuo savo įmonės ar parduotuvės. <br/><br/>-->
+<!--                            Šiuos darbus atliks mūsų profesionalai, kurie suorganizuos ir įvykdys rinkodaros kampanijas Jūsų verslui.-->
+                            <br/><br/>
+                            Kaip pasiekti klientus? Kaip išplėsti pardavimus?<br/>
+                            Mes sudarysime reklaminę kampaniją, parinksime geriausius raktinius žodžius.<br/>
 						</p>
 					</div>
 				</div>
@@ -230,13 +232,12 @@
 				<div class="col-sm-6 ">
 					<div class="col-sm-9 ">
 						<h2 class="text-right mg-md">
-							Google Analytics arba FB Pixel
+							Google Analytics ir FB Pixel
 						</h2>
 						<p class="text-right">
-							Google Analytics arba Facebook Pixel yra vienos populiariausių interneto svetainių analizės įrankių, pateikiančios svetainių savininkams labai detalią ir lengvai suprantamą informaciją.
-							Abi jos yra nemokamos.
-							Įdiegiame specialų kodą, kuris leidžia stebėti lankytojų elgseną puslapyje pačiais įvairiausiais aspektais.
-							Apmokome klientus, kaip naudotis Google Analytics arba FB Pixel.
+							Google Analytics ir Facebook Pixel yra vienos populiariausių ir nemokamų interneto svetainių analizės įrankių, pateikiančios svetainių savininkams labai detalią ir lengvai suprantamą informaciją.
+							Į Jūsų svetainę įdiegsime specialų kodą, kuris leis stebėti lankytojų elgseną svetainėje pačiais įvairiausiais aspektais.
+							Apmokysime kaip naudotis Google Analytics ir FB Pixel įrankiais.
 						</p>
 					</div>
 					<div class="col-sm-3  hidden-xs">
@@ -254,12 +255,12 @@
 					</div>
 					<div class="col-sm-9">
 						<h2 class="  mg-md">
-							El.laiškų siuntimas
+							Naujienlaiškių siuntimas
 						</h2>
-						<p class=" ">
-							Naujienlaiškių rinkodara kelia pardavimus.
-							Reikia tik teisingai viską paruošti ir suorganizuoti – patį laišką, surinkti gavėjų el. pašto adresų duomenų bazę ir išsiųsti taip,
-							kad laiškas nepapultų į „Spam“ aplankus ir filtrus. Tai rimtas darbas. Patikėkite tai mūsų rinkodaros specialistams.
+						<p class="">
+                            Naujienlaiškių rinkodara kelia pardavimus. Jei turite el. parduotuvę ar daug lankytojų siųsdami naujienlaiškius skatinsite lankytojus vėl sugrįžti.
+                            Mes galime į Jūsų svetainę įdiegti automatizuotą naujienlaiškių siuntimo sistemą.
+                            Jums tereikės pasirinkti norimas prekes, pridėti papildomus tekstus ir sistema pagal sukurtią naujienlaiškio šabloną išsiuntinės laiškus.
 						</p>
 					</div>
 				</div>
@@ -271,9 +272,11 @@
 							Fotografija
 						</h2>
 						<p class="text-right">
-							Įspūdingos nuotraukos puslapyje sukuria ypatingą interneto projekto vaizdą.
-							Organizuojame reikalingas verslo fotosesijas, kuriuose Jūsų darbuotojai virsta modeliais, o produktai atrodo įspūdingai.
-							Patrauklios nuotraukos sukuria teigiamą emociją, toliau lankytojui lieka tik pirkti ar užsisakyti paslaugą.
+<!--                            Įspūdingos nuotraukos puslapyje sukuria ypatingą interneto projekto vaizdą.-->
+<!--                            Organizuojame reikalingas verslo fotosesijas, kuriuose Jūsų darbuotojai virsta modeliais, o produktai atrodo įspūdingai.-->
+<!--                            Patrauklios nuotraukos sukuria teigiamą emociją, toliau lankytojui lieka tik pirkti ar užsisakyti paslaugą.-->
+                            Patrauklios ir aukštos kokybės nuotraukos Jūsų internetinei svetainei sukuria papildomą vertę.
+                            Organizuojame verslo fotosesijas, kuriuose Jūsų darbuotojai virs modeliais, o produktai atrodys nepriekaištingai.
 						</p>
 					</div>
 					<div class="col-sm-3  hidden-xs">
@@ -295,9 +298,11 @@
 							Greitaveika
 						</h2>
 						<p>
-							Greitai užsikraunantis internetinis puslapis ar el. parduotuvė – didelis žingsnis link sėkmės.
-							Greitas puslapio užkrovimo laikas padidins Jūsų lankytojų skaičių. Pastebėta, kad 70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
-							Greitas puslapio užkrovimo greitis taip pat svarbus sudarant svetainės reitingą - kuo puslapis greičiau bus užkraunamas, tuo aukštesnėse Google pozicijose jis bus.
+<!--							Greitai užsikraunantis internetinis puslapis ar el. parduotuvė – didelis žingsnis link sėkmės.-->
+                            70 % klientų negrįžta į svetaines kurios kraunasi lėtai.
+                            Sudarant svetainės reitingą (pvz. Google page rank) yra atsižvelgiama ir į krovimo trukmę.
+                            Jei Jūsų svetainė krauansi lėtai, būtina lėtai veikiančias vietas ištaisyti.
+                            Mes atliekame internetinės svetainės greitaviekos stebėseną. Aptikę lėtai veikiančias vietas pasiūlysime kaip jas būtų galima pagreitinti.
 						</p>
 					</div>
 				</div>
