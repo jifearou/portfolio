@@ -24,7 +24,7 @@
 					Guliveriokelionės.lt
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow push-bottom-percents-5 hidden-xs ">
-					Kelionių pardavėjas
+					Kelionių organizatorius
 				</h3>
 			</div>
 
@@ -36,7 +36,7 @@
 					Guliveriokelionės.lt
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow push-bottom-percents-5 ">
-					Kelionių pardavėjas
+					Kelionių organizatorius
 				</h3>
 				<?php
 					include 'button-contact.html';
