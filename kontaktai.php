@@ -43,7 +43,7 @@
 				</h1>
 				<h3 class="mg-md text-center ">
 					Darbo laikas I-V nuo 9 iki 18 val.<br />
-                    Telefonas: +370 630 52960<br />
+                    Telefonas: <a href="tel:+37063052960" >+ 370 630 52960 </a><br />
                     El. Paštas: <a href="mailto:info@matomi.lt">info@matomi.lt</a><br/>
                     KAUNAS
 				</h3>
