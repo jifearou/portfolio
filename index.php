@@ -27,12 +27,12 @@
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="img/home_carousel_elparduotuve--2.jpg" />
+								<img src="img/home_carousel_internetispuslapis--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item ">
-								<img src="img/home_carousel_internetispuslapis--2.jpg" />
+								<img src="img/home_carousel_elparduotuve--2.jpg" />
 								<div class="carousel-caption">
 								</div>
 							</div>

@@ -6,7 +6,7 @@
 <!-- services   -->
 <div id="services">
 	<!-- bakcground  class:bg-DWLWL9USBG -->
-	<div class="box bgc-white feature-list tc-black   d-box push-top-percents-5 push-bottom-percents-10"  >
+	<div class="box bgc-white feature-list tc-black   d-box push-top-percents-5 push-bottom-percents-5"  >
 		<div class="container box-xxl200">
 			<div class="row">
 				<div class="col-sm-12">
@@ -179,8 +179,10 @@
 	<!-- services END -->
 
 
+	<!--	##########################  	##########################  	##########################  	##########################  -->
+
 	<!-- bakcground  class:bg-DWLWL9USBG -->
-	<div class="box bgc-grey feature-list tc-black   d-box push-top-percents-5 push-bottom-percents-10" id="services-secondary">
+	<div class="box bgc-grey feature-list tc-black   d-box push-top-percents-5 push-bottom-percents-5" id="services-secondary">
 		<div class="container box-xxl200">
 
 

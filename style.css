@@ -24,6 +24,18 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-family: 'Myriad Set Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		font-weight: 300;
 }
+@font-face {
+	font-family: 'Myriad Set Pro';
+	font-style: normal;
+	src: url('fonts/myriadpro-regular.eot');
+	src: local('Myriad Set Pro'), url('fonts/myriadpro-regular.woff') format('woff'), url('fonts/myriadpro-regular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_4410">Text with this font applied</p> */
+.fontsforweb_fontid_4410 {
+	font-family: 'Myriad Set Pro' !important;
+}
+ 
+
 h1 {
 	font-size: 75px;
 	line-height: 1.0625;
@@ -101,7 +113,7 @@ p {  font-size: 22px;  }
 	line-height: 1.3;
 }
 #services-secondary h2 { color: #bfbfbf; }
-#services-secondary p { color: #999; }
+#services-secondary p { color: #BEBEBE; }
 #services-secondary .text-grey { color: #999; }
 #services-secondary.d-box .icon-round { color: #bfbfbf; border-color: #bfbfbf!important; background-color: #bfbfbf;  }
 
