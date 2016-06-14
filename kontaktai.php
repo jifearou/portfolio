@@ -38,11 +38,11 @@
 	<div class="container box-xxl200">
 		<div class="row">
 			<div class="col-sm-12">
-				<h1 class=" text-center floating-top-down text-black sm-shadow mg-lg push-bottom-percents-3">
+				<h1 class=" text-center  text-black sm-shadow mg-lg push-bottom-percents-3">
 					Kontaktai
 				</h1>
 				<h3 class="mg-md text-center ">
-					Darbo laikas I-V nuo 9 iki 18 val.<br />
+					Darbo laikas: I-V nuo 9 iki 18 val.<br />
                     Telefonas: <a href="tel:+37063052960" >+ 370 630 52960 </a><br />
                     El. Paštas: <a href="mailto:info@matomi.lt">info@matomi.lt</a><br/>
                     KAUNAS

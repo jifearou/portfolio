@@ -9,7 +9,7 @@
 <div class="box bgc-anti-flash-white l-box" id="content-works">
 	<div class="container box-md">
 
-				<h1 class="text-center floating-top-down text-black sm-shadow mg-md push-bottom-percents-3">
+				<h1 class="text-center text-black sm-shadow mg-md push-bottom-percents-3">
 					Mūsų darbai
 				</h1>
 		<div class="row">

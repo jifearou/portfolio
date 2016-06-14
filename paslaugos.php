@@ -10,7 +10,7 @@
 		<div class="container box-xxl200">
 			<div class="row">
 				<div class="col-sm-12">
-					<h1 class="text-center floating-top-down text-black sm-shadow mg-lg push-bottom-percents-5">
+					<h1 class="text-center  text-black sm-shadow mg-lg push-bottom-percents-5">
 						Paslaugos
 					</h1>
 				</div>

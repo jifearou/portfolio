@@ -21,7 +21,9 @@
 		<div class="row">
 <!--			<div class="col-sm-5 col-sm-4 col-sm-53 col-sm-5452 col-sm-54535451 col-sm-5453545254535450"> -->
 			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-8 ">
-				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery" style="z-index: 99999999!important; position:absolute;">
+				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery"
+					 style="z-index: 99999999!important; position:absolute;"
+					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 <!--				class="pull-right fadeInLeft animDelay04 animated" />-->
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6 push-bottom-percents-3 push-top-percents-3">
@@ -31,7 +33,8 @@
 				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" style="z-index: 1;" />
 			</div>
 			<div class="col-sm-3 push-top-percents-8  hidden-md hidden-sm hidden-xs">
-				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery">
+				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery"  style="z-index: 99999999!important; position:absolute;"
+					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 <!--					 class="fadeInRight animDelay1 animated" />-->
 			</div>
 		</div>

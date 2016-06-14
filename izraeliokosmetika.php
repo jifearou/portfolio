@@ -29,7 +29,8 @@
 				<img src="img/izrael_header_macbook_flat-1400x-brown.jpg" class="img-responsive center-block fadeInLeft   animated" />
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10 hidden-xs hidden-sm hidden-md">
-				<img src="img/izrael_iphone_home_brown2.jpg"    class=" floating-top-down  balloon-action iphone-kymsurgery  " />
+				<img src="img/izrael_iphone_home_brown2.jpg"    class=" floating-top-down  balloon-action iphone-kymsurgery  "
+					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 			</div>
 		</div>
 	</div>
