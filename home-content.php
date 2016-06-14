@@ -24,7 +24,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/guliver_responsive_.jpg" class=" img-responsive" />
+                    <a href="/guliveriokeliones.php">
+                        <img src="img/guliver_responsive_.jpg" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -71,7 +73,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/izrael_macbook_home.png" class=" img-responsive" />
+                    <a href="/izraeliokosmetika.php">
+                        <img src="img/izrael_macbook_home.png" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -92,6 +96,7 @@
     </div>
 </div>
 <!-- box Group Izraelio END -->
+
 <!-- MOBILE box Group Izraelio     -->
 <div class='box-group push-percents-5 bgc-anti-flash-white hidden-lg hidden-md hidden-sm'  >
     <div class="box l-box   box-tile-2"  >
@@ -112,7 +117,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/izrael_macbook_home-500x.png" class=" img-responsive" />
+                    <a href="/izraeliokosmetika.php">
+                        <img src="img/izrael_macbook_home-500x.png" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -169,7 +176,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/_macbook_neringa_flat.png" class=" img-responsive" />
+                    <a href="/visit-neringa.php">
+                        <img src="img/_macbook_neringa_flat.png" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -215,7 +224,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                    <a href="/kymsurgery.php">
+                        <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -256,7 +267,9 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
-                    <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                    <a href="/kymsurgery.php">
+                        <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                    </a>
                 </div>
             </div>
         </div>
