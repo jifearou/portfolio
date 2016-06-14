@@ -96,6 +96,15 @@ p {  font-size: 22px;  }
 }
 .iphone-kymsurgery {  height: 600px;  }
 
+#home .carousel-control {
+	text-shadow: #000;
+	width: 7%;
+}
+#home .carousel-control span {
+	font-size: 60px;
+	opacity: .9;
+}
+#home .carousel-control:hover, #home .carousel-control:focus { opacity: .9; }
 #services .text-black {	color: #333; }
 #services.bg-DWLWL9USBG {		background-image: none;	background-color: #fff; }
 #services  .box-xxl200 { padding: 50px 10px; }
@@ -1452,6 +1461,19 @@ iframe{
 	#services p,
 	#services .text-right,
 	#services .text-left	{ text-align: center;}
+
+	#home .carousel-indicators li {
+		width: 20px;
+		height: 20px;
+		border-radius: 20px;
+		margin-top: -20px;
+	}
+	#home .carousel-indicators {
+		bottom: -35px;
+	}
+	#home .carousel-indicators li{
+		margin: 0 8px;
+	}
 }
 
 @media (max-width: 325px) {

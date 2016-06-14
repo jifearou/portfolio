@@ -6,7 +6,7 @@
 
 
 	<!-- box-20 -->
-	<div class="box bgc-anti-flash-white l-box" id="box-20-second">
+	<div class="box bgc-anti-flash-white l-box" id="home">
 		<div class="container box-sm">
 			<div class="row">
 				<div class="col-sm-12">
@@ -70,6 +70,11 @@
 	</div>
 	<!-- box-20 END -->
 
+
+<?php
+	include 'home-content.php';
+?>
+
 <!-- box-21 -->
 <div class="box l-box bgc-white   push-top-percents-5   " id="box-21">
 	<div class="container box-xxl">
@@ -98,29 +103,26 @@
 
 
 <!-- wokrs-home -->
-<div class="box bgc-anti-flash-white l-box" id="wokrs-home">
-	<div class="container box-xxl200">
-		<div class="row">
-			<div class="col-sm-12">
-<!--				<h2 class="text-center  mg-lg">-->
-<!--					Mūsų darbai-->
-<!--				</h2>-->
-				<h3 class="text-center  mg-lg push-bottom-percents-5">
-					Nuo paprastų asmeninių puslapių ar jų dizaino iki profesonalių el. parduotuvių, <br/>
-					ar net kelionių organizatorių svetainių
-				</h3>
-
-				<div  class="text-center">
-					<a href="/works.php">
-						<button type="button" class="btn btn-sq btn-wire btn-xl"  >
-						<span class="ion  icon-spacer"></span>Atlikti darbai</button>
-					</a>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</div>
+<!--<div class="box bgc-anti-flash-white l-box" id="wokrs-home">-->
+<!--	<div class="container box-xxl200">-->
+<!--		<div class="row">-->
+<!--			<div class="col-sm-12"> -->
+<!--				<h3 class="text-center  mg-lg push-bottom-percents-5">-->
+<!--					Nuo paprastų asmeninių puslapių ar jų dizaino iki profesonalių el. parduotuvių, <br/>-->
+<!--					ar net kelionių organizatorių svetainių-->
+<!--				</h3>-->
+<!---->
+<!--				<div  class="text-center">-->
+<!--					<a href="/works.php">-->
+<!--						<button type="button" class="btn btn-sq btn-wire btn-xl"  >-->
+<!--						<span class="ion  icon-spacer"></span>Atlikti darbai</button>-->
+<!--					</a>-->
+<!--				</div>-->
+<!---->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
+<!--</div>-->
 <!-- wokrs-home END -->
 
 
