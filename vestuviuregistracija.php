@@ -28,7 +28,7 @@
 				<img src="img/vestuves_macbook_home_flat.jpg" class="img-responsive center-block fadeInLeft animDelay02 animated" />
 			</div>
 			<div class="col-md-12 col-lg-5 hidden-xs hidden-sm hidden-md   push-top-percents-10  ">
-				<img src="img/vestuves_iphone_home_.jpg"  class="floating-top-down iphone-kymsurgery  " />
+				<img src="img/vestuves_iphone_home_.jpg"  class="floating-top-down iphone-kymsurgery  " alt="Kvietimas į Vestuves Dizainas  "/>
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 				<h3 class="text-center  mg-lg">
 					Lengva ir patogu naudoti
 				</h3>
-				<img src="img/vestuves_iphone.jpg" class="floating-top-down img-responsive center-block push-top-percents-5" />
+				<img src="img/vestuves_iphone.jpg" class="floating-top-down img-responsive center-block push-top-percents-5" alt="  Vestuves Dizainas  " />
 			</div>
 		</div>
 	</div>
@@ -73,7 +73,7 @@
 			<div class="col-sm-12">
 				<h2 class="text-center  tc-outer-space mg-lg push-bottom-percents-5">
 					Prisitaikantis Dizainas
-				</h2><img src="img/vestuveseff_2.jpg" class="img-responsive center-block" />
+				</h2><img src="img/vestuveseff_2.jpg" class="img-responsive center-block" alt=" Vestuves web Dizainas  " />
 			</div>
 		</div>
 	</div>
@@ -89,7 +89,7 @@
 					Registracija
 				</h2>
 				<h3 class=" text-center mg-lg">
-				</h3><img src="img/vestuves_macbook_contact_flat.jpg" class="img-responsive center-block" />
+				</h3><img src="img/vestuves_macbook_contact_flat.jpg" class="img-responsive center-block" alt="Registrtacija į Vestuves Dizainas  " />
 			</div>
 		</div>
 	</div>

@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/guliveriokeliones.php">
-                        <img src="img/guliver_responsive_.jpg" class=" img-responsive" />
+                        <img src="img/guliver_responsive_.jpg" alt="Internetinių puslapių kūrimas" class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -44,7 +44,7 @@
 <!--        <div class="container box-lg">-->
 <!--            <div class="row">-->
 <!--                <div class="col-sm-12 push-percents-20">-->
-<!--                    <img src="img/kaledos_responsive_3.jpg" class=" img-responsive" />-->
+<!--                    <img src="img/kaledos_responsive_3.jpg" class=" img-responsive center-block" />-->
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
@@ -74,7 +74,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/izraeliokosmetika.php">
-                        <img src="img/izrael_macbook_home.png" class=" img-responsive" />
+                        <img src="img/izrael_macbook_home.png" alt="Elektroninių parduotuvių kūrima"  class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -118,7 +118,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/izraeliokosmetika.php">
-                        <img src="img/izrael_macbook_home-500x.png" class=" img-responsive" />
+                        <img src="img/izrael_macbook_home-500x.png" alt="Elektroninių parduotuvių kūrima" class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -132,7 +132,7 @@
 <!--        <div class="container box-lg">-->
 <!--            <div class="row">-->
 <!--                <div class="col-sm-12 push-percents-20">-->
-<!--                    <img src="img/coilover_eff_iphones_3x_2.jpg" class=" img-responsive" />-->
+<!--                    <img src="img/coilover_eff_iphones_3x_2.jpg" class=" img-responsive center-block" />-->
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
@@ -177,7 +177,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/visit-neringa.php">
-                        <img src="img/_macbook_neringa_flat.png" class=" img-responsive" />
+                        <img src="img/_macbook_neringa_flat.png" alt="Tinklapių Dizaino  kūrima" class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -206,7 +206,7 @@
 <!--        <div class="container box-lg">-->
 <!--            <div class="row">-->
 <!--                <div class="col-sm-12 push-percents-20">-->
-<!--                    <img src="img/kaledos_responsive_3.jpg" class=" img-responsive" />-->
+<!--                    <img src="img/kaledos_responsive_3.jpg" class=" img-responsive center-block" />-->
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
@@ -225,7 +225,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/kymsurgery.php">
-                        <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                        <img src="img/kym_home_responsive.jpg"  alt="Interaktyvios vartotojo sąsajos" class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -268,7 +268,7 @@
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/kymsurgery.php">
-                        <img src="img/kym_home_responsive.jpg" class=" img-responsive" />
+                        <img src="img/kym_home_responsive.jpg"  alt="Interaktyvios vartotojo sąsajos" class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>

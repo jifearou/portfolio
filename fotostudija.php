@@ -30,7 +30,7 @@
 				</div>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/fotostudija_macbook_home_red.jpg" class="img-responsive center-block  floating-top-down  " />
+				<img src="img/fotostudija_macbook_home_red.jpg" class="img-responsive center-block  floating-top-down  " alt="Fotostudijos Dizainas  " />
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 				</h2>
 				<h3 class="text-center mg-lg push-bottom-percents-5">
 					Poreikiai išgirsti
-				</h3><img src="img/fotostudija_iphone_lt2.jpg" class="floating-top-down img-responsive center-block" />
+				</h3><img src="img/fotostudija_iphone_lt2.jpg" class="floating-top-down img-responsive center-block" alt="Prisitaikantis Dizainas  " />
 			</div>
 		</div>
 	</div>
@@ -77,7 +77,7 @@
 				<h2 class="text-center  mg-lg  push-bottom-percents-5 ">
 					Gyvas ir Įdomus<br />Pateikimas
 				</h2>
-				<img src="img/fotostud_eff_ipads_2x_white.jpg" class="img-responsive center-block" />
+				<img src="img/fotostud_eff_ipads_2x_white.jpg" class="img-responsive center-block" alt="Gyvas Dizainas  "  />
 			</div>
 		</div>
 	</div>
@@ -111,7 +111,7 @@
 					Interaktyvi Galerija
 				</h2>
 
-				 <img src="img/fotostudija_eff_macbook_3.jpg"  class="img-responsive center-block" />
+				 <img src="img/fotostudija_eff_macbook_3.jpg"  class="img-responsive center-block" alt="Interaktyvi Galerija Dizainas  " />
 			</div>
 		</div>
 	</div>

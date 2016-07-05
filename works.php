@@ -15,19 +15,19 @@
 		<div class="row">
 			<div class="col-sm-4 push-top-percents-3">
 				<a href="visit-neringa.php">
-					<img src="img/_macbook_neringa_flat.png" class="img-responsive center-block"
+					<img src="img/_macbook_neringa_flat.png" class="img-responsive center-block"  alt="vasarnamių nuomos puslapis"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Visit-Neringa.com - vasarnamių nuomos puslapis" />
 				</a>
 			</div>
 			<div class="col-sm-4">
 				<a href="guliveriokeliones.php">
-					<img src="img/_imac_guliver_.jpg" class="img-responsive center-block"
+					<img src="img/_imac_guliver_.jpg" class="img-responsive center-block"  alt=" Kelionių paieškos ir pardavėjo puslapis"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Guliveriokeliones.lt - Kelionių paieškos ir pardavėjo puslapis" />
 				</a>
 			</div>
 			<div class="col-sm-4">
 				<a href="kymsurgery.php">
-					<img src="img/_ipad_kym_flat.png" class="img-responsive center-block push-top-percents-3"
+					<img src="img/_ipad_kym_flat.png" class="img-responsive center-block push-top-percents-3"  alt=" Chirurgijos klinikos puslapis"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Chirurgijos klinikos Singapūre - paslaugų puslapis" />
 				</a>
 			</div>
@@ -35,19 +35,19 @@
 		<div class="row voffset">
 			<div class="col-sm-4">
 				<a href="izraeliokosmetika.php">
-					<img src="img/_imac_izraeliokosm_flat.jpg" class="img-responsive center-block"
+					<img src="img/_imac_izraeliokosm_flat.jpg" class="img-responsive center-block"  alt="kosmetikos elekt. parduotuvė"
 						 data-toggle="tooltip" data-placement="top" data-original-title="IzraelioKosmetika.lt - kosmetikos elekt. parduotuvė" />
 				</a>
 			</div>
 			<div class="col-sm-4">
 				<a href="coilover.php">
-					<img src="img/_ipad_coilover.jpg" class="img-responsive center-block width-percents-82 push-top-percents-10"
+					<img src="img/_ipad_coilover.jpg" class="img-responsive center-block width-percents-82 push-top-percents-10"  alt="elektroninė parduotuvė"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Coilovers.lt - mašinų amortizatorių elektroninė parduotuvė" />
 				</a>
 			</div>
 			<div class="col-sm-4 push-top-percents-3">
 				<a href="elparduotuve.php">
-					<img src="img/_macbook_kaledos_hometop_flat.png" class="img-responsive center-block"
+					<img src="img/_macbook_kaledos_hometop_flat.png" class="img-responsive center-block"  alt=" Dovanų pristatymo elektroninė parduotuvė"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Dovanų pristatymo elektroninė parduotuvė" />
 				</a>
 			</div>
@@ -55,19 +55,19 @@
 		<div class="row voffset">
 			<div class="col-sm-4">
 				<a href="kalnai.php">
-					<img src="img/_ipad_kalnai.jpg" class="img-responsive center-block width-percents-82 push-top-percents-10"
+					<img src="img/_ipad_kalnai.jpg" class="img-responsive center-block width-percents-82 push-top-percents-10"   alt=" Asmeninio puslapio dizainas"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Asmeninio puslapio dizainas - apie keliones" />
 				</a>
 			</div>
 			<div class="col-sm-4 push-top-percents-3">
 				<a href="fotostudija.php">
-					<img src="img/_macbook_fotostudija.jpg" class="img-responsive center-block"
+					<img src="img/_macbook_fotostudija.jpg" class="img-responsive center-block"  alt=" Fotografijos puslapio dizainas"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Fotografijos puslapis" />
 				</a>
 			</div>
 			<div class="col-sm-4">
 				<a href="vestuviuregistracija.php">
-					<img src="img/_imac_vestuves.jpg" class="img-responsive center-block"
+					<img src="img/_imac_vestuves.jpg" class="img-responsive center-block"  alt=" Asmeninio vestuviu puslapio dizainas"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Asmeninio puslapio dizainas - skritas registracijai į vestuves" />
 				</a>
 			</div>

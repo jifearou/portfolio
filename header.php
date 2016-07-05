@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="internetiniu puslapiu kurimas,  elektroniniu parduotuviu kurimas, internetiniai puslapiai, internetines svetaines, internetinis puslapis, interneto puslapis, interneto puslapiai,    unikalus dizainas, logo, logotipai, web dizainas, svetainių kūrimas     ">
-    <meta name="description" content="Profesionalus interneto svetainių kūrimas su unikaliu dizainu ir valdymo sistema, elektroninių parduotuvių kūrimas, unikalūs svetainių dizainai, logo logotipų kūrimas, prisitaikantis dizainas. Jūsų šuolis į Sėkmę. Internetinių puslapių kūrimas, interneto svetainių kūrimas, tinklapių kūrimas, WEB sprendimai. ">
+     <meta name="description" content="Profesionalus interneto svetainių kūrimas su unikaliu dizainu ir valdymo sistema, elektroninių parduotuvių kŪrimas, unikalūs svetainių dizainai, logo paslaugos, prisitaikantis dizainas. Jūsų šuolis į Sėkmę. Internetinių puslapių kūrimas, interneto svetainių kūrimas, tinklapių kūrimas, WEB sprendimai. ">
  
     <link rel="shortcut icon" type="image/png" href="img/servises_icons/favicon114.png" />
 

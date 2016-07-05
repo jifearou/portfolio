@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-md-12 col-lg-7">
 <!--				<div class="bg" data-ibg-bg="img/neringa_macbook_home_green.jpg"></div>-->
-				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive floating-top-down  " />
+				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive floating-top-down  " alt="Vasarnamių nuomos internetnis puslapis" />
 			</div>
 		</div>
 	</div>
@@ -56,7 +56,7 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-sm-6">
-				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down center-block img-responsive  " />
+				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down center-block img-responsive  " alt="Mobilus internetnis puslapis" />
 			</div>
 			<div class="col-sm-6">
                 <h2 class="mg-md  text-center push-top-percents-15">
@@ -81,7 +81,7 @@
             <h3 class="mg-md  text-center">
                 Sukurtas išskirtinis Dizainas.<br />
             </h3>
-			<img src="img/neringa_3x_ipads.jpg" class="img-responsive floating-top-down push-top-percents-10" />
+			<img src="img/neringa_3x_ipads.jpg" class="img-responsive floating-top-down push-top-percents-10" alt="Mobilus internetnis puslapis" />
 		</div>
 	</div>
 </div>
@@ -98,7 +98,7 @@
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-3">
 					Unikalus ir pritaikytas prie įvairių įrenginių dizainas <br/> - leis tapti pasiekiamiems visur ir visiems
-				</h3><img src="img/neringa_responce.jpg" class="img-responsive center-block push-bottom-percents-5     " />
+				</h3><img src="img/neringa_responce.jpg" class="img-responsive center-block push-bottom-percents-5     " alt="Prisitaikantsis internetnis puslapis" />
 			</div>
 		</div>
 	</div>
@@ -151,7 +151,7 @@
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg">
 					Navigacija
-				</h2><img src="img/neringa_menu_.jpg" class="img-responsive center-block  push-top-percents-5" />
+				</h2><img src="img/neringa_menu_.jpg" class="img-responsive center-block  push-top-percents-5" alt=" internetnis puslapis meniu" />
 			</div>
 		</div>
 	</div>
@@ -167,7 +167,7 @@
 		<div class="container box-lg">
 			<div class="row">
 				<div class="col-sm-12">
-					<img src="img/neringa_iphone-map-white.jpg" class="floating-top-down img-responsive center-block" />
+					<img src="img/neringa_iphone-map-white.jpg" class="floating-top-down img-responsive center-block" alt="Googlemaps internetnis puslapis" />
 				</div>
 			</div>
 		</div>
@@ -218,7 +218,7 @@
 		<div class="container box-lg">
 			<div class="row">
 				<div class="col-sm-12">
-					<img src="img/neringa_iphone-map-white.jpg" class="img-responsive center-block width-percents-82" />
+					<img src="img/neringa_iphone-map-white.jpg" class="img-responsive center-block width-percents-82" alt=" internetnis zemelapis" />
 				</div>
 			</div>
 		</div>

@@ -26,6 +26,7 @@
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10  hidden-xs hidden-sm hidden-md  ">
 				<img   src="img/kaledos_iphone_yallow2.jpg"   class="floating-top-down   balloon-action iphone-kymsurgery  "
+					   alt="El. Parduotuvės Dizainas"
 					   data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 			</div>
 		</div>
@@ -62,7 +63,7 @@
 					<?php
 						include 'button-contact-black-frame.html';
 					?>
-					<img src="img/kaledos_responsive_3.jpg" class="center-block img-responsive push-top-percents-10 width-percents-82" />
+					<img src="img/kaledos_responsive_3.jpg" class="center-block img-responsive push-top-percents-10 width-percents-82"  alt="El. Parduotuvės Dizainas" />
 
 			</div>
 		</div>
@@ -95,7 +96,7 @@
 				<h3 class=" text-center mg-lg push-bottom-percents-5">
 					 Galimybė padidinti pardavimus suteikiant<br />vartotojui teisę rinktis priedus
 				</h3>
-				<img src="img/kaledos_eff_4x_iphones_2.jpg" class="img-responsive center-block" />
+				<img src="img/kaledos_eff_4x_iphones_2.jpg" class="img-responsive center-block"  alt="Mobile  Parduotuvės Dizainas"/>
 			</div>
 		</div>
 	</div>
@@ -117,7 +118,7 @@
 				<?php
 					include 'button-contact.html';
 				?>
-				<img src="img/eff_desktop_6.jpg" class="img-responsive center-block push-top-percents-10" />
+				<img src="img/eff_desktop_6.jpg" class="img-responsive center-block push-top-percents-10"  alt="Paprastumas Versle Dizainas"/>
 			</div>
 		</div>
 	</div>
@@ -135,7 +136,7 @@
 				<h3 class=" text-center mg-lg">
 					Iliustruotas pirkimo procesas<br />
 				</h3>
-				<img src="img/kaledos_macbook__2.jpg" class="floating-top-down img-responsive center-block push-top-percents-8" />
+				<img src="img/kaledos_macbook__2.jpg" class="floating-top-down img-responsive center-block push-top-percents-8" alt="Pagalbinė Informacija Dizainas" />
 			</div>
 		</div>
 	</div>

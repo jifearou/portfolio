@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="col-sm-7">
-				<img src="img/coilover_macbook_desktop4_grey.jpg" class="img-responsive  floating-top-down" />
+				<img src="img/coilover_macbook_desktop4_grey.jpg" class="img-responsive  floating-top-down" alt="El. Parduotuvė Dizainas"/>
 			</div>
 		</div>
 	</div>
@@ -67,7 +67,7 @@
 					Tinklapis lengvai prisitaiko prie įvairių įrenginių
 				</h3>
 
-				<img src="img/coilover_responsive_.jpg" class="img-responsive center-block" />
+				<img src="img/coilover_responsive_.jpg" class="img-responsive center-block" alt="El. Prisitaikantis Dizainas  "/>
 
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 				</h3>
 			</div>
 			<div class="col-sm-7">
-				<img src="img/coilover_ipad_details_.jpg" class="floating-top-down center-block img-responsive" />
+				<img src="img/coilover_ipad_details_.jpg" class="floating-top-down center-block img-responsive" alt="El. Prisitaikantis Dizainas  " />
 			</div>
 		</div>
 	</div>

@@ -30,6 +30,7 @@
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10 hidden-xs hidden-sm hidden-md">
 				<img src="img/izrael_iphone_home_brown2.jpg"    class=" floating-top-down  balloon-action iphone-kymsurgery  "
+					 alt="El. Parduotuvė Dizainas"
 					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 			</div>
 		</div>
@@ -69,7 +70,7 @@
 					include 'button-contact.html';
 				?>
 
-				<img src="img/izrael_responsive_2800x.jpg" class="img-responsive center-block width-percents-82  push-top-percents-10" />
+				<img src="img/izrael_responsive_2800x.jpg" class="img-responsive center-block width-percents-82  push-top-percents-10"  alt="Prisitaikantis Dizainas" />
 
 			</div>
 		</div>
@@ -104,7 +105,7 @@
 				<h2 class=" text-center mg-lg push-bottom-percents-5">
 					Interaktyvus Meniu
 				</h2>
-				<img src="img/izrael_menu_interactive_white2.jpg" class="img-responsive center-block" />
+				<img src="img/izrael_menu_interactive_white2.jpg" class="img-responsive center-block"  alt="Interaktyvus Meniu Dizainas"/>
 			</div>
 		</div>
 	</div>
@@ -127,7 +128,7 @@
 				<div class="push-bottom-percents-5">
 				</div>
 				<div class="col-sm-12" style="position: absolute; z-index: 9999999;">
-					<img src="img/izrael_iphone_result_flat.png"   class="moving-iphone fadeInUp animDelay04 center-block animated" />
+					<img src="img/izrael_iphone_result_flat.png"   class="moving-iphone fadeInUp animDelay04 center-block animated"  alt="web Dizainas" />
 				</div>
 			</div>
 		</div>
@@ -151,7 +152,7 @@
 				<h3 class="text-center  mg-sm  ">
 					Sukurtas minimalistinis ir patogus Dizainas.<br />
 				</h3>
-				<img src="img/izrael_eff_ipads_2x_white.jpg" class="center-block img-responsive floating-top-down  " />
+				<img src="img/izrael_eff_ipads_2x_white.jpg" class="center-block img-responsive floating-top-down  " alt="Išsiskiriantis Dizainas" />
 			</div>
 		</div>
 	</div>
@@ -165,7 +166,7 @@
 		<div class="container box-lg">
 			<div class="row">
 				<div class="col-sm-12">
-					<img src="img/izrael_eff_iphones_3x_details_2.jpg" class="img-responsive center-block push-percents-lft-5" />
+					<img src="img/izrael_eff_iphones_3x_details_2.jpg" class="img-responsive center-block push-percents-lft-5" alt="Išsiskiriantis Dizainas"  />
 				</div>
 			</div>
 		</div>
@@ -203,7 +204,7 @@
 				<h3 class="text-center  mg-lg">
 					Išsirenki prekę ir spaudi Pirkti.<br />  Jokios perteklinės informacijos.
 				</h3>
-				<img src="img/izrael_eff_iphones_3x_details_2.jpg" class=" push-top-percents-10 width-percents-82 img-responsive center-block push-percents-lft-5" />
+				<img src="img/izrael_eff_iphones_3x_details_2.jpg" class=" push-top-percents-10 width-percents-82 img-responsive center-block push-percents-lft-5" alt="Paprastumas Dizainas" />
 			</div>
 		</div>
 	</div>
@@ -228,7 +229,7 @@
 				</h3>
 			</div>
 			<div class="col-md-12 col-lg-6">
-				<img src="img/izrael_ipad_izral_contacts_flat.jpg" class="img-responsive floating-top-down" />
+				<img src="img/izrael_ipad_izral_contacts_flat.jpg" class="img-responsive floating-top-down"  alt="Kontaktų Puslapis Dizainas" />
 			</div>
 		</div>
 	</div>

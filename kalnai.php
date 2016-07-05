@@ -24,7 +24,7 @@
 				</h1>
 			</div>
 			<div class="col-md-12 col-lg-7">
-				<img src="img/kalnai_macbook_1600x_blue.jpg" class="img-responsive floating-top-down  center-block" />
+				<img src="img/kalnai_macbook_1600x_blue.jpg" class="img-responsive floating-top-down  center-block" alt="Kalnai Dizainas  " />
 			</div>
 		</div>
 	</div>
@@ -87,7 +87,7 @@
 			include 'button-contact.html';
 			?>
 
-			<img src="img/kalnai_responsive_.jpg" class="img-responsive center-block push-top-percents-10" />
+			<img src="img/kalnai_responsive_.jpg" class="img-responsive center-block push-top-percents-10" alt="Travel Dizainas  " />
 
 		</div>
 	</div>

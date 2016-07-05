@@ -21,8 +21,8 @@
 		<div class="row">
 <!--			<div class="col-sm-5 col-sm-4 col-sm-53 col-sm-5452 col-sm-54535451 col-sm-5453545254535450"> -->
 			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-8 ">
-				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery"
-					 style="z-index: 99999999!important; position:absolute;"
+				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery show-in-front"
+					 alt="Chirurgijos Klinika internetnis puslapis"
 					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 <!--				class="pull-right fadeInLeft animDelay04 animated" />-->
 			</div>
@@ -33,7 +33,7 @@
 				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" style="z-index: 1;" />
 			</div>
 			<div class="col-sm-3 push-top-percents-8  hidden-md hidden-sm hidden-xs">
-				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery"  style="z-index: 99999999!important; position:absolute;"
+				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery show-in-front"   alt="Chirurgijos Klinika internetnis puslapis"
 					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
 <!--					 class="fadeInRight animDelay1 animated" />-->
 			</div>
@@ -45,6 +45,22 @@
 <?php
 	include('row-atlikome-kymsurgery.html');
 ?>
+
+<!-- box-11 -->
+<div class="box l-box bgc-white push-top-percents-10"  id=" ">
+	<div class="container box-lg">
+		<div class="row">
+			<div class="col-sm-12">
+				<h2 class="text-center  mg-lg ">
+					Client
+				</h2>
+				<h3 class="text-center  mg-lg  ">
+					"I have to say that I'm really impressed by the web design. It's exactly how I kind of envisaged it but you've made it even better."
+				</h3>
+			</div>
+		</div>
+	</div>
+</div>
 
 <!-- box-11 -->
 <div class="box l-box bgc-white push-top-percents-10"  id="box-11">
@@ -117,7 +133,7 @@
 				<h3 class="text-center  mg-lg push-bottom-percents-5">
 					Projekte panaudoti išskirtinai jam sukurti paveikslėliai
 				</h3>
-				<img src="img/kym_icons2-grey.png" width="1200" class="img-responsive center-block fadeInUp animDelay08 animated" />
+				<img src="img/kym_icons2-grey.png" width="1200" class="img-responsive center-block fadeInUp animDelay08 animated"  alt="Organu dizainas" />
 			</div>
 		</div>
 	</div>
@@ -129,7 +145,7 @@
 	<div class="container box-xxl300 ">
 		<div class="row animDelay02">
 			<div class="col-sm-6">
-				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive   fadeInLeft animDelay02 animated" />
+				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive   fadeInLeft animDelay02 animated" alt="Prisitaikantis Dizainas" />
 			</div>
 			<div class="col-sm-6 push-top-percents-8">
 				<h2 class=" mg-lg text-center">
@@ -162,7 +178,7 @@
 
 				</h3>
 
-				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive  push-top-percents-10 width-percents-82 fadeInLeft animDelay02 animated" />
+				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive  push-top-percents-10 width-percents-82 fadeInLeft animDelay02 animated" alt="Prisitaikantis Dizainas" />
 			</div>
 		</div>
 	</div>
@@ -190,7 +206,7 @@
 					Tablet Dizainas
 				</h2>
 				<h3 class=" text-center mg-xl">
-				</h3><img src="img/kym_ipad_home_kymsurgery_shadow2_lt.jpg" class="img-responsive center-block mg-sm " />
+				</h3><img src="img/kym_ipad_home_kymsurgery_shadow2_lt.jpg" class="img-responsive center-block mg-sm " alt="Tablet Dizainas" />
 			</div>
 		</div>
 	</div>
@@ -214,7 +230,7 @@
 				?>
 			</div>
 			<div class="col-sm-6">
-				<img src="img/kym_iphone-black-2-contacts-white.jpg" class="img-responsive   floating-top-down" />
+				<img src="img/kym_iphone-black-2-contacts-white.jpg" class="img-responsive   floating-top-down"  alt="Patogūs Kontaktai Dizainas"/>
 			</div>
 		</div>
 	</div>
@@ -228,7 +244,7 @@
 			<div class="col-sm-12">
 				<h2 class="mg-lg text-center  tc-outer-space push-bottom-percents-5">
 					Apie Informacija
-				</h2><img src="img/kym_eff_2.jpg" class="img-responsive center-block mg-lg" />
+				</h2><img src="img/kym_eff_2.jpg" class="img-responsive center-block mg-lg" alt="Apie Informacija Dizainas" />
 			</div>
 		</div>
 	</div>

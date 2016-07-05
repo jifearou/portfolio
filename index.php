@@ -27,22 +27,22 @@
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="img/home_carousel_internetispuslapis--2.jpg" />
+								<img src="img/home_carousel_internetispuslapis--2.jpg" alt="Internetiniu puslapiu kurimas" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item ">
-								<img src="img/home_carousel_elparduotuve--2.jpg" />
+								<img src="img/home_carousel_elparduotuve--2.jpg" alt="Internetiniu parduotuviu kurimas" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item">
-								<img src="img/home_carousel_dizainas.jpg" />
+								<img src="img/home_carousel_dizainas.jpg" alt="Internetiniu dizainu kurimas" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 							<div class="item">
-								<img src="img/carusel_kym_responsive_3000x1275.jpg" />
+								<img src="img/carusel_kym_responsive_3000x1275.jpg" alt="Interaktyvi vartotojo sasaja"  />
 								<div class="carousel-caption">
 								</div>
 							</div>
@@ -52,13 +52,13 @@
 							<!--								</div>-->
 							<!--							</div>-->
 							<div class="item">
-								<img src="img/home_carousel_orginalumas--2.jpg" />
+								<img src="img/home_carousel_orginalumas--2.jpg" alt="Orginalus puslapiai" />
 								<div class="carousel-caption">
 								</div>
 							</div>
 
 							<div class="item">
-								<img src="img/home_carousel_komunikacija--2.jpg" />
+								<img src="img/home_carousel_komunikacija--2.jpg" alt="Komunikacija versle" />
 								<div class="carousel-caption">
 								</div>
 							</div>

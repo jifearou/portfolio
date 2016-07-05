@@ -29,7 +29,7 @@
 			</div>
 
 			<div class="col-md-12 col-lg-7">
-				<img src="img/guliver_macbook_home_2.jpg" class=" floating-top-down center-block  img-responsive  " />
+				<img src="img/guliver_macbook_home_2.jpg" class=" floating-top-down center-block  img-responsive  " alt="Kelionių organizatorius internetnis puslapis"/>
 			</div>
 			<div class="col-md-12 col-lg-5 hidden-md hidden-sm hidden-xs ">
 				<h1 class=" mg-lg sm-shadow text-left text-center    push-top-percents-15">
@@ -72,7 +72,7 @@
 				</h3>
 			</div>
 			<div class="col-lg-7 col-md-12 push-percents-rgt-10">
-				<img src="img/guliver_responsive_.jpg" class="img-responsive" />
+				<img src="img/guliver_responsive_.jpg" class="img-responsive" alt="Prisitaikantis dizainas   internetnis puslapis" />
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-sm-6 push-percents-lft-5">
-				<img src="img/guliver_eff_3x_3.jpg" class="img-responsive fadeInLeft animDelay02 center-block animated" />
+				<img src="img/guliver_eff_3x_3.jpg" class="img-responsive fadeInLeft animDelay02 center-block animated" alt="Mobilus internetnis puslapis" />
 			</div>
 			<div class="col-sm-6">
 				<h2 class=" text-center mg-lg push-top-percents-15">
@@ -113,7 +113,7 @@
 				<?php
 				include 'button-contact.html';
 				?>
-				<img src="img/guliver_eff_3x_3.jpg" class="width-percents-82 img-responsive fadeInLeft animDelay02 center-block animated push-top-percents-10" />
+				<img src="img/guliver_eff_3x_3.jpg" class="width-percents-82 img-responsive fadeInLeft animDelay02 center-block animated push-top-percents-10" alt="Kelionių internetnis puslapis" />
 		</div>
 	</div>
 </div>
@@ -166,7 +166,7 @@
 		<div class="container box-lg">
 			<div class="row">
 				<div class="col-sm-12 push-percents-20">
-					<img src="img/guliver_eff_ipad_details_non_dropshadw.jpg" class="floating-top-down img-responsive" />
+					<img src="img/guliver_eff_ipad_details_non_dropshadw.jpg" class="floating-top-down img-responsive" alt="Keliones informacijos dizianas" />
 				</div>
 			</div>
 		</div>
@@ -202,7 +202,7 @@
 					Patogiai pateikta svarbiausia informacija:<br />Adresas, Telefonas, El. paštas, Darbo laikas,<br />Vieta žemėlapyje, Kontaktinė forma
 				</h3>
 				<div class="col-sm-12 push-top-percents-10" >
-					<img src="img/guliver_contacts3_shadows.jpg" class="center-block mg-lg img-responsive "   />
+					<img src="img/guliver_contacts3_shadows.jpg" class="center-block mg-lg img-responsive " alt="Kontaktu dizainas"   />
 				</div>
 			</div>
 		</div>
@@ -219,7 +219,7 @@
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg push-bottom-percents-5">
 					Panaudotos Ikonėlės
-				</h2><img src="img/guliver_icons_blue.png" class="floating-top-down img-responsive center-block img-frame-lg  " />
+				</h2><img src="img/guliver_icons_blue.png" class="floating-top-down img-responsive center-block img-frame-lg  "  alt="Ikoneles" />
 			</div>
 		</div>
 	</div>
