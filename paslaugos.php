@@ -311,7 +311,19 @@
 			</div>
 		</div>
 	</div>
-</div>
+
+
+	<!-- bakcground  class:bg-DWLWL9USBG -->
+	<div class="box feature-list tc-black   d-box push-top-percents-5 push-bottom-percents-5" id="draugai">
+		<div class="container box-xxl200">
+			<h2 class="mg-md">
+				Draugai
+			</h2>
+			<p>
+				 <a class="text-black" href="http://versliukai.lt/interneto-svetainiu-kurimas" target="_blank" >Versliukai.lt</a>
+			</p>
+		</div>
+	</div>
 
 
 <?php

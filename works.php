@@ -15,7 +15,7 @@
 		<div class="row">
 			<div class="col-sm-4 push-top-percents-3">
 				<a href="visit-neringa.php">
-					<img src="img/_macbook_neringa_flat.png" class="img-responsive center-block"  alt="vasarnamių nuomos puslapis"
+					<img src="img/_macbook_neringa_flat.jpg" class="img-responsive center-block"  alt="vasarnamių nuomos puslapis"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Visit-Neringa.com - vasarnamių nuomos puslapis" />
 				</a>
 			</div>

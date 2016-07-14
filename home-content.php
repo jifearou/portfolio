@@ -11,9 +11,13 @@
                     <h2 class="mg-md text-center push-top-percents-15">
                         Internetinių puslapių kūrimas
                     </h2>
-                    <h3 class="mg-md text-center ">
+                    <h3 class="mg-md text-center push-bottom-percents-5 ">
                         Įvairių svetainių kūrimas su prisitaikančiu dizainu prie įvairių įrenginių.<br />
                     </h3>
+                    <?php
+                     include 'button-get-offer.html';
+                    ?>
+
                 </div>
             </div>
         </div>
@@ -67,14 +71,14 @@
 <!-- box Group Kaledos eshop END -->
 
 <!-- box Group Izraelio -->
-<div class='box-group push-percents-5 bgc-anti-flash-white hidden-xs'  >
+<div class='box-group push-percents-5 bgc-dark-terra-cotta text-white hidden-xs'  >
     <!--  -->
     <div class="box l-box   box-tile-2 "  >
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 push-percents-20">
                     <a href="/izraeliokosmetika.php">
-                        <img src="img/izrael_macbook_home.png" alt="Elektroninių parduotuvių kūrima"  class=" img-responsive center-block" />
+                        <img src="img/izrael_macbook_home-grey.jpg" alt="Elektroninių parduotuvių kūrima"  class=" img-responsive center-block" />
                     </a>
                 </div>
             </div>
@@ -84,10 +88,10 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 ">
-                    <h2 class="mg-md text-center push-top-percents-5">
+                    <h2 class="mg-md text-center push-top-percents-5 text-white">
                         Elektroninių parduotuvių kūrimas
                     </h2>
-                    <h3 class="mg-md text-center ">
+                    <h3 class="mg-md text-center text-white">
                         Praplėskite savo verslą, paverskite jį matomu, <br /> atpažįstamu ir patogiu naudotis.
                     </h3>
                 </div>
@@ -164,10 +168,13 @@
                     <h2 class="mg-md text-center push-top-percents-5">
                         Tinklapių Dizaino kūrimas
                     </h2>
-                    <h3 class="mg-md text-center ">
+                    <h3 class="mg-md text-center push-bottom-percents-5">
                         Kuriame išskirtinius ir praktiškus internetinių svetainių ir el. parduotuvių dizainus. <br />
                         <!--                        Orentuojamės į puikius vartotojo potyrius, praktiškumą ir intuityvumą.  <br />-->
                     </h3>
+                    <?php
+                    include 'button-get-offer.html';
+                    ?>
                 </div>
             </div>
         </div>
@@ -219,7 +226,7 @@
 
 
 <!-- box Group KYM-interaktyvi-->
-<div class='box-group push-percents-5 bgc-anti-flash-white hidden-xs'  >
+<div class='box-group push-percents-5  bgc-meat-brown hidden-xs'  >
     <div class="box l-box   box-tile-2 "  >
         <div class="container box-lg">
             <div class="row">
@@ -235,12 +242,16 @@
         <div class="container box-lg">
             <div class="row">
                 <div class="col-sm-12 ">
-                    <h2 class="mg-md text-center push-top-percents-15">
+                    <h2 class="mg-md text-center push-top-percents-15 text-white">
                         Interaktyvios vartotojo sąsajos
                     </h2>
-                    <h3 class="mg-md text-center ">
+                    <h3 class="mg-md text-center text-white">
                         Užvedus pelę ant organų, kuriems paslaugos teikia įmonė - organai užsidega
                     </h3>
+                    <h4 class="text-center  mg-lg push-bottom-percents-5 text-italic text-white "> 
+                        Klientas:  "I have to say that I'm really impressed by the web design. <br/> It's exactly how I kind of envisaged it but you've made it even better." 
+                    </h4>
+
                 </div>
             </div>
         </div>
