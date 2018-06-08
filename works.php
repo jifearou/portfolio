@@ -27,7 +27,7 @@
 			</div>
 			<div class="col-sm-4">
 				<a href="kymsurgery.php">
-					<img src="img/_ipad_kym_flat.png" class="img-responsive center-block push-top-percents-3"  alt=" Chirurgijos klinikos puslapis"
+					<img src="img/_ipad_kym_flat.jpg" class="img-responsive center-block push-top-percents-3"  alt=" Chirurgijos klinikos puslapis"
 						 data-toggle="tooltip" data-placement="top" data-original-title="Chirurgijos klinikos Singapūre - paslaugų puslapis" />
 				</a>
 			</div>

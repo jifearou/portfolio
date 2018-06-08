@@ -105,7 +105,7 @@
 				<h2 class=" text-center mg-lg push-bottom-percents-5">
 					Interaktyvus Meniu
 				</h2>
-				<img src="img/izrael_menu_interactive_white2.jpg" class="img-responsive center-block"  alt="Interaktyvus Meniu Dizainas"/>
+				<img src="img/izrael_menu_interactive_white3.jpg" class="img-responsive center-block"  alt="Interaktyvus Meniu Dizainas"/>
 			</div>
 		</div>
 	</div>

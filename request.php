@@ -41,7 +41,7 @@ if ($valid) {
         "Reply-To: $email\r\n" .
         "X-Mailer: PHP/" . phpversion();
     $text = "El. paštas: $email\r\nVardas: $name\r\nTelefonas: $phone\r\nKlausimas:\r\n$message";
-    if (mail($primary_email, "digital.work klausimas", $text, $headers) === FALSE) {
+    if (mail($primary_email, "Internetiniu puslapiu klausimas", $text, $headers) === FALSE) {
         $success = false;
         $alerts[] = "Nepavyko išsiųsti Jūsų klausimo. Susisiekite su mumis el. paštu <a href='mailto:$primary_email'>$primary_email</a>.";
     } else {

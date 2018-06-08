@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="./css/animate.min.css" />
-    <script src="./js/jquery-2.1.0.min.js"></script>
+     <script src="./js/jquery-2.1.0.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/interactive_bg-master/jquery.interactive_bg.min.js"></script>
     <script src="js/box.min.js"></script>
